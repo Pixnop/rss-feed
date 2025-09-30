@@ -26,21 +26,28 @@ Un système de génération de flux RSS **générique et configurable** qui s'ad
 
 ## 🎯 Sources Disponibles
 
-| Source | Description | Flux RSS |
-|--------|-------------|----------|
-| **Mistral AI** | News, recherche et releases | [mistral_rss.xml](output/mistral_rss.xml) |
-| **Anthropic** | Engineering blog | [anthropic_rss.xml](output/anthropic_rss.xml) |
-| **Flux Fusionné** | Tous les flux combinés | [merged_feed.xml](output/merged_feed.xml) |
+| Source | Description | Articles | Flux RSS |
+|--------|-------------|----------|----------|
+| **Mistral AI** | News, recherche et releases | ~10 | [mistral_rss.xml](output/mistral_rss.xml) |
+| **Anthropic Engineering** | Blog technique et ingénierie | ~10 | [anthropic_rss.xml](output/anthropic_rss.xml) |
+| **Anthropic News** | Actualités et annonces officielles | ~50 | [anthropic_news_rss.xml](output/anthropic_news_rss.xml) |
+| **🔀 Flux Fusionné** | Tous les flux combinés | ~70 | [merged_feed.xml](output/merged_feed.xml) |
 
 ### URLs des Flux (GitHub Raw)
 
 ```
+# Sources individuelles
 https://raw.githubusercontent.com/YOUR_USERNAME/rss-feed/main/output/mistral_rss.xml
 https://raw.githubusercontent.com/YOUR_USERNAME/rss-feed/main/output/anthropic_rss.xml
+https://raw.githubusercontent.com/YOUR_USERNAME/rss-feed/main/output/anthropic_news_rss.xml
+
+# Flux fusionné (recommandé)
 https://raw.githubusercontent.com/YOUR_USERNAME/rss-feed/main/output/merged_feed.xml
 ```
 
 > **Note** : Remplacez `YOUR_USERNAME` par votre nom d'utilisateur GitHub
+>
+> **Astuce** : Le flux fusionné combine tous les articles et les trie par date de publication
 
 ## 🚀 Installation Rapide
 
@@ -129,24 +136,26 @@ python validate_config.py config/*.yaml
 
 ```
 rss-feed/
-├── config/                  # Configurations YAML des sources
-│   ├── sources.yaml         # Liste des sources actives + config fusion
-│   ├── mistral.yaml         # Config Mistral AI
-│   ├── anthropic.yaml       # Config Anthropic
-│   ├── openai.yaml          # Exemple OpenAI
-│   └── huggingface.yaml     # Exemple Hugging Face
+├── config/                      # Configurations YAML des sources
+│   ├── sources.yaml             # Liste des sources actives + config fusion
+│   ├── mistral.yaml             # Config Mistral AI (actif)
+│   ├── anthropic.yaml           # Config Anthropic Engineering (actif)
+│   ├── anthropic_news.yaml      # Config Anthropic News (actif)
+│   ├── openai.yaml              # Exemple OpenAI (désactivé)
+│   └── huggingface.yaml         # Exemple Hugging Face (désactivé)
 │
-├── src/                     # Code source du générateur
-│   ├── __init__.py          # Module principal
-│   ├── scraper.py           # Scraper générique piloté par config
-│   ├── rss_generator.py     # Générateur de flux RSS
-│   ├── merger.py            # Fusionneur de flux multiples
-│   └── utils.py             # Fonctions utilitaires
+├── src/                         # Code source du générateur
+│   ├── __init__.py              # Module principal
+│   ├── scraper.py               # Scraper générique piloté par config
+│   ├── rss_generator.py         # Générateur de flux RSS
+│   ├── merger.py                # Fusionneur de flux multiples
+│   └── utils.py                 # Fonctions utilitaires
 │
-├── output/                  # Flux RSS générés
-│   ├── mistral_rss.xml
-│   ├── anthropic_rss.xml
-│   └── merged_feed.xml
+├── output/                      # Flux RSS générés
+│   ├── mistral_rss.xml          # ~10 articles Mistral AI
+│   ├── anthropic_rss.xml        # ~10 articles Engineering
+│   ├── anthropic_news_rss.xml   # ~50 articles News
+│   └── merged_feed.xml          # ~70 articles combinés
 │
 ├── .github/workflows/
 │   └── generate_feeds.yml   # Automatisation GitHub Actions
