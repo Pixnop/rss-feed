@@ -1,2 +1,13 @@
+# Dépendances pour le générateur RSS universel
+
+# Playwright pour le scraping web avec JavaScript
 playwright==1.41.0
+
+# Génération de flux RSS
 feedgen==0.9.0
+
+# Parsing de dates flexible
+python-dateutil==2.8.2
+
+# Parsing YAML pour les configurations
+PyYAML==6.0.1

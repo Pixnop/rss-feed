@@ -1,0 +1,60 @@
+# Configuration du scraper pour Anthropic Engineering Blog
+# Basée sur le scraper existant anthropic_rss.py
+
+source:
+  name: "Anthropic Engineering"
+  url: "https://www.anthropic.com/engineering"
+  description: "Latest engineering posts from Anthropic"
+  language: "en"
+
+scraping:
+  wait_time: 10000
+  wait_strategy: "load"
+
+  selectors:
+    # Container principal : chaque article dans la liste
+    # Utilise wildcard selector pour gérer les classes CSS générées dynamiquement
+    container: "div[class*='ArticleList_articles__'] > div > article"
+
+    title:
+      # Le titre est dans un h3 à l'intérieur d'un lien
+      primary: "a > div[class*='ArticleList_content__'] > h3"
+      fallback: ["h3", "h2", "[class*='title']"]
+
+    link:
+      # Le lien parent de l'article
+      primary: "a"
+      fallback: ["[href]"]
+      attribute: "href"
+
+    date:
+      # La date est dans un div à côté du titre
+      primary: "a > div[class*='ArticleList_content__'] > div"
+      fallback: ["time", "[class*='date']", "[class*='meta']"]
+      # Pas d'attribut datetime, on prend le texte brut
+      attribute: null
+
+    description:
+      # Anthropic n'affiche pas de description dans la liste
+      primary: "p"
+      fallback: ["[class*='excerpt']"]
+      optional: true
+
+  url_handling:
+    make_absolute: true
+    base_url: "https://www.anthropic.com"
+
+  # Formats de dates Anthropic (ex: "February 26, 2025")
+  date_formats:
+    - "%B %d, %Y"                 # Format principal Anthropic
+    - "%b %d, %Y"
+    - "%Y-%m-%d"
+  fallback: "now"
+
+rss:
+  output_file: "anthropic_rss.xml"
+  title: "Anthropic Engineering Blog"
+  link: "https://www.anthropic.com/engineering"
+  description: "Latest engineering posts from Anthropic"
+  language: "en"
+  max_items: 50

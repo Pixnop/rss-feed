@@ -1,0 +1,19 @@
+# Configuration centrale des sources RSS
+# Active/désactive les sources et configure le flux fusionné
+
+active_sources:
+  - mistral        # Mistral AI news
+  - anthropic      # Anthropic Engineering blog
+  - anthropic_news # Anthropic News & announcements
+  # - openai       # OpenAI blog (exemple)
+  # - huggingface  # Hugging Face blog (exemple)
+
+merge:
+  enabled: true
+  output_file: "merged_feed.xml"
+  title: "AI News - Multi-Sources"
+  description: "Actualités fusionnées de plusieurs entreprises IA leaders"
+  link: "https://github.com/YOUR_USERNAME/rss-feed"
+  max_items: 100                    # Nombre maximum d'articles dans le flux fusionné
+  add_source_prefix: true           # Ajouter [Source] devant les titres
+  sort_by_date: true               # Trier par date (plus récent en premier)

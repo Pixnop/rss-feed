@@ -1,0 +1,54 @@
+# Configuration du scraper pour OpenAI Blog (exemple)
+# À adapter selon la structure réelle du site
+
+source:
+  name: "OpenAI"
+  url: "https://openai.com/blog"
+  description: "Latest updates and research from OpenAI"
+  language: "en"
+
+scraping:
+  wait_time: 3000
+  wait_strategy: "networkidle"
+
+  selectors:
+    # À ajuster après inspection du site
+    container: "article, .post, [class*='blog-post']"
+
+    title:
+      primary: "h2"
+      fallback: ["h3", "h1", "[class*='title']"]
+
+    link:
+      primary: "a"
+      fallback: ["[href]"]
+      attribute: "href"
+
+    date:
+      primary: "time"
+      fallback: ["[class*='date']", "span"]
+      attribute: "datetime"
+
+    description:
+      primary: "p"
+      fallback: ["[class*='excerpt']", "[class*='description']"]
+      optional: true
+
+  url_handling:
+    make_absolute: true
+    base_url: "https://openai.com"
+
+  date_formats:
+    - "%B %d, %Y"
+    - "%Y-%m-%d"
+    - "%b %d, %Y"
+    - "%Y-%m-%dT%H:%M:%S%z"
+  fallback: "now"
+
+rss:
+  output_file: "openai_rss.xml"
+  title: "OpenAI Blog"
+  link: "https://openai.com/blog"
+  description: "Latest updates and research from OpenAI"
+  language: "en"
+  max_items: 50

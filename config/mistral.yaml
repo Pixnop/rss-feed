@@ -1,0 +1,72 @@
+# Configuration du scraper pour Mistral AI News
+# Ce fichier définit comment extraire les articles du site Mistral
+
+source:
+  name: "Mistral AI"
+  url: "https://mistral.ai/news"
+  description: "Latest news, research, and product releases from Mistral AI"
+  language: "en"
+
+scraping:
+  # Temps d'attente pour le chargement JavaScript (millisecondes)
+  wait_time: 10000
+
+  # Stratégie d'attente Playwright
+  # Options: "networkidle", "load", "domcontentloaded"
+  wait_strategy: "load"
+
+  # Sélecteurs CSS pour extraire les données
+  selectors:
+    # Container principal : le lien <a> qui contient l'article
+    # Structure Mistral : <a><article>...</article></a>
+    container: "a:has(article)"
+
+    title:
+      # Le titre est dans un h2 à l'intérieur de l'article
+      primary: "article h2"
+      fallback: ["h2", "h3", "h1"]
+
+    link:
+      # Le container EST déjà le lien, on extrait directement son href
+      # Le sélecteur "." signifie l'élément container lui-même
+      primary: "."
+      fallback: []
+      attribute: "href"
+
+    date:
+      # La date est en texte libre (ex: "September 2, 2025")
+      # Deux formats : <p class="px-3"> pour carte vedette, <div class="grid"> span pour petites cartes
+      primary: "article div.grid span:first-child"
+      fallback: ["article p.px-3", "article span", "span", "p", "time"]
+      # Pas d'attribut datetime, texte brut
+      attribute: null
+
+    description:
+      # Description dans un <p> avec classe text-gray-600 dans l'article
+      primary: "article p.text-gray-600"
+      fallback: ["article p", "p.text-gray-600", "p"]
+      optional: true
+
+  # Gestion des URLs
+  url_handling:
+    make_absolute: true           # Convertir les URLs relatives en absolues
+    base_url: "https://mistral.ai"
+
+  # Formats de dates supportés (ordre de tentative)
+  date_formats:
+    - "%B %d, %Y"                 # "February 26, 2025"
+    - "%Y-%m-%d"                  # "2025-02-26"
+    - "%d/%m/%Y"                  # "26/02/2025"
+    - "%b %d, %Y"                 # "Feb 26, 2025"
+    - "%Y-%m-%dT%H:%M:%S%z"      # ISO format avec timezone
+    - "%Y-%m-%dT%H:%M:%S"        # ISO format sans timezone
+  fallback: "now"                 # Utiliser date actuelle si parsing échoue
+
+# Configuration du flux RSS généré
+rss:
+  output_file: "mistral_rss.xml"
+  title: "Mistral AI - News & Updates"
+  link: "https://mistral.ai/news"
+  description: "Latest news, research, and product releases from Mistral AI"
+  language: "en"
+  max_items: 50                   # Limite d'articles dans le flux

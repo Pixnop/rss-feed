@@ -1,0 +1,63 @@
+# Configuration du scraper pour Anthropic News
+# Page d'actualités principales d'Anthropic
+
+source:
+  name: "Anthropic News"
+  url: "https://www.anthropic.com/news"
+  description: "Latest news and announcements from Anthropic"
+  language: "en"
+
+scraping:
+  wait_time: 20000
+  wait_strategy: "load"
+
+  selectors:
+    # Container principal : deux types de cartes (Spotlight + Standard)
+    # Les cartes sont des liens <a> contenant soit CardSpotlight soit Card_root
+    container: "a[href^='/news/']"
+
+    title:
+      # Le titre est dans un h3 (présent dans les deux types de cartes)
+      primary: "h3"
+      fallback: ["[class*='headline']", "h2", "[class*='title']"]
+
+    link:
+      # Le container EST le lien, on extrait son href directement
+      primary: "."
+      fallback: []
+      attribute: "href"
+
+    date:
+      # Structure 1 - Spotlight cards (en haut): <p class="detail-m agate">Sep 29, 2025</p>
+      # Structure 2 - List cards (grille): <div class="PostList_post-date__djrOA">5 juin 2024</div>
+      # Certains articles: <p class="detail-m">Sep 29, 2025</p>
+      primary: "div.PostList_post-date__djrOA"
+      fallback: ["p.detail-m.agate", "p.detail-m:last-of-type", "p.detail-m", "p:last-of-type", "time"]
+      attribute: null
+
+    description:
+      # La catégorie est dans le premier p.detail-m
+      primary: "p.detail-m:first-of-type"
+      fallback: ["p:first-of-type", "p"]
+      optional: true
+
+  url_handling:
+    make_absolute: true
+    base_url: "https://www.anthropic.com"
+
+  # Formats de dates Anthropic (ex: "February 26, 2025", "26 février 2025")
+  date_formats:
+    - "%B %d, %Y"                 # English: September 29, 2025
+    - "%b %d, %Y"                 # English short: Sep 29, 2025
+    - "%d %B %Y"                  # French: 29 septembre 2025
+    - "%d %b %Y"                  # French short: 29 sept 2025
+    - "%Y-%m-%d"                  # ISO: 2025-09-29
+  fallback: "now"
+
+rss:
+  output_file: "anthropic_news_rss.xml"
+  title: "Anthropic News"
+  link: "https://www.anthropic.com/news"
+  description: "Latest news and announcements from Anthropic"
+  language: "en"
+  max_items: 50

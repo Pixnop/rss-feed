@@ -1,0 +1,54 @@
+# Configuration du scraper pour Hugging Face Blog (exemple)
+# Structure différente pour démontrer la flexibilité
+
+source:
+  name: "Hugging Face"
+  url: "https://huggingface.co/blog"
+  description: "Latest blog posts from Hugging Face"
+  language: "en"
+
+scraping:
+  wait_time: 3000
+  wait_strategy: "networkidle"
+
+  selectors:
+    # Structure spécifique Hugging Face
+    container: "article, [class*='blog-card'], .grid > div"
+
+    title:
+      primary: "h2 a, h3 a"
+      fallback: ["h2", "h3", "[class*='title']"]
+
+    link:
+      primary: "h2 a, h3 a"
+      fallback: ["a[href*='/blog/']", "a"]
+      attribute: "href"
+
+    date:
+      primary: "time"
+      fallback: ["[datetime]", "[class*='date']"]
+      attribute: "datetime"
+
+    description:
+      primary: "p"
+      fallback: [".description", "[class*='excerpt']"]
+      optional: true
+
+  url_handling:
+    make_absolute: true
+    base_url: "https://huggingface.co"
+
+  date_formats:
+    - "%Y-%m-%d"
+    - "%B %d, %Y"
+    - "%Y-%m-%dT%H:%M:%S%z"
+    - "%b %d, %Y"
+  fallback: "now"
+
+rss:
+  output_file: "huggingface_rss.xml"
+  title: "Hugging Face Blog"
+  link: "https://huggingface.co/blog"
+  description: "Latest blog posts from Hugging Face"
+  language: "en"
+  max_items: 50

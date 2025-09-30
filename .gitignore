@@ -39,3 +39,10 @@ Thumbs.db
 test-results/
 playwright-report/
 playwright/.cache/
+
+# Claude Code
+claudedocs/
+.serena/
+
+# Virtual environment
+.venv/
