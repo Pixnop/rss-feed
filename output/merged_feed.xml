@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Sep 2025 14:59:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 15:03:49 +0000</lastBuildDate>
     <item>
       <title>[Anthropic Engineering Blog] Introducing Contextual Retrieval</title>
       <link>https://www.anthropic.com/engineering/contextual-retrieval</link>
@@ -240,18 +240,18 @@
       <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>[Anthropic News] Anthropic appoints Hidetoshi Tojo as Head of Japan and announces hiring plans</title>
+      <link>https://www.anthropic.com/news/head-of-japan-hiring-plans</link>
+      <description>Anthropic appoints Hidetoshi Tojo as Head of Japan and announces hiring plans</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/head-of-japan-hiring-plans</guid>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[Anthropic News] Automate security reviews with Claude Code</title>
       <link>https://www.anthropic.com/news/automate-security-reviews-with-claude-code</link>
       <description>Automate security reviews with Claude Code</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/automate-security-reviews-with-claude-code</guid>
       <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Anthropic appoints Hidetoshi Tojo as Head of Japan and announces hiring plans</title>
-      <link>https://www.anthropic.com/news/head-of-japan-hiring-plans</link>
-      <description>Anthropic appoints Hidetoshi Tojo as Head of Japan and announces hiring plans</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/head-of-japan-hiring-plans</guid>
-      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Claude Sonnet 4 now supports 1M tokens of context</title>
@@ -279,7 +279,7 @@
       <link>https://www.anthropic.com/news/usage-policy-update</link>
       <description>Policy</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/usage-policy-update</guid>
-      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Claude Code and new admin controls for business plans</title>
@@ -482,21 +482,21 @@
       <link>https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation</link>
       <description>Announcements</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation</guid>
-      <pubDate>Tue, 30 Sep 2025 14:52:49 +0000</pubDate>
+      <pubDate>Tue, 30 Sep 2025 15:03:44 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Thoughts on America’s AI Action Plan</title>
       <link>https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</link>
       <description>Policy</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</guid>
-      <pubDate>Tue, 30 Sep 2025 14:52:49 +0000</pubDate>
+      <pubDate>Tue, 30 Sep 2025 15:03:44 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Introducing Claude Sonnet 4.5</title>
       <link>https://www.anthropic.com/news/claude-sonnet-4-5</link>
       <description>Announcements</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-4-5</guid>
-      <pubDate>Tue, 30 Sep 2025 14:52:49 +0000</pubDate>
+      <pubDate>Tue, 30 Sep 2025 15:03:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
