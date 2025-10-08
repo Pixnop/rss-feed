@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Oct 2025 18:22:14 +0000</lastBuildDate>
-    <item>
-      <title>The need for transparency in Frontier AI</title>
-      <link>https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai</link>
-      <description>Policy</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai</guid>
-      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lawrence Livermore National Laboratory expands Claude for Enterprise use to empower scientists and researchers</title>
-      <link>https://www.anthropic.com/news/lawrence-livermore-national-laboratory-expands-claude-for-enterprise-to-empower-scientists-and</link>
-      <description>Announcements</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/lawrence-livermore-national-laboratory-expands-claude-for-enterprise-to-empower-scientists-and</guid>
-      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Oct 2025 04:18:25 +0000</lastBuildDate>
     <item>
       <title>Advancing Claude for Education</title>
       <link>https://www.anthropic.com/news/advancing-claude-for-education</link>
@@ -338,25 +324,39 @@
       <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Rahul Patil joins Anthropic as Chief Technology Officer</title>
+      <link>https://www.anthropic.com/news/rahul-patil-joins-anthropic</link>
+      <description>Rahul Patil joins Anthropic as Chief Technology Officer</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/rahul-patil-joins-anthropic</guid>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expanding our global operations to India with our second Asia Pacific office</title>
+      <link>https://www.anthropic.com/news/expanding-global-operations-to-india</link>
+      <description>Announcements</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/expanding-global-operations-to-india</guid>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Introducing Claude Sonnet 4.5</title>
       <link>https://www.anthropic.com/news/claude-sonnet-4-5</link>
       <description>Announcements</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-4-5</guid>
-      <pubDate>Tue, 07 Oct 2025 18:22:09 +0000</pubDate>
+      <pubDate>Wed, 08 Oct 2025 04:18:20 +0000</pubDate>
     </item>
     <item>
       <title>Thoughts on America’s AI Action Plan</title>
       <link>https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</link>
       <description>Policy</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</guid>
-      <pubDate>Tue, 07 Oct 2025 18:22:09 +0000</pubDate>
+      <pubDate>Wed, 08 Oct 2025 04:18:20 +0000</pubDate>
     </item>
     <item>
       <title>Anthropic raises $13B Series F at $183B post-money valuation</title>
       <link>https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation</link>
       <description>Announcements</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation</guid>
-      <pubDate>Tue, 07 Oct 2025 18:22:09 +0000</pubDate>
+      <pubDate>Wed, 08 Oct 2025 04:18:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
