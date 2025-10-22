@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Oct 2025 15:15:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 16:20:18 +0000</lastBuildDate>
     <item>
       <title>[Anthropic Engineering Blog] Introducing Contextual Retrieval</title>
       <link>https://www.anthropic.com/engineering/contextual-retrieval</link>
@@ -77,13 +77,6 @@
       <description>Introducing Deep Research (Preview), plus Audio-in, Projects, and other updates.</description>
       <guid isPermaLink="true">https://mistral.ai/news/le-chat-dives-deep</guid>
       <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Build AI in America</title>
-      <link>https://www.anthropic.com/news/build-ai-in-america</link>
-      <description>Policy</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/build-ai-in-america</guid>
-      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Mistral AI - News &amp; Updates] Our contribution to a global environmental standard for AI</title>
@@ -492,25 +485,32 @@
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>[Anthropic News] A statement from Dario Amodei on Anthropic's commitment to American AI leadership</title>
+      <link>https://www.anthropic.com/news/statement-dario-amodei-american-ai-leadership</link>
+      <description>Announcements</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/statement-dario-amodei-american-ai-leadership</guid>
+      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[Anthropic News] Anthropic raises $13B Series F at $183B post-money valuation</title>
       <link>https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation</link>
       <description>Announcements</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation</guid>
-      <pubDate>Tue, 21 Oct 2025 12:32:27 +0000</pubDate>
+      <pubDate>Wed, 22 Oct 2025 16:20:13 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Thoughts on America’s AI Action Plan</title>
       <link>https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</link>
       <description>Policy</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</guid>
-      <pubDate>Tue, 21 Oct 2025 12:32:27 +0000</pubDate>
+      <pubDate>Wed, 22 Oct 2025 16:20:13 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Introducing Claude Sonnet 4.5</title>
       <link>https://www.anthropic.com/news/claude-sonnet-4-5</link>
       <description>Announcements</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-4-5</guid>
-      <pubDate>Tue, 21 Oct 2025 12:32:27 +0000</pubDate>
+      <pubDate>Wed, 22 Oct 2025 16:20:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
