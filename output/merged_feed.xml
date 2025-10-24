@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Oct 2025 23:13:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 01:06:20 +0000</lastBuildDate>
     <item>
       <title>[Anthropic Engineering Blog] Introducing Contextual Retrieval</title>
       <link>https://www.anthropic.com/engineering/contextual-retrieval</link>
@@ -84,20 +84,6 @@
       <description>Our contribution to a global environmental standard for AI</description>
       <guid isPermaLink="true">https://mistral.ai/news/our-contribution-to-a-global-environmental-standard-for-ai</guid>
       <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Thoughts on America’s AI Action Plan</title>
-      <link>https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</link>
-      <description>Policy</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</guid>
-      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Anthropic partners with the University of Chicago’s Becker Friedman Institute on AI economic research</title>
-      <link>https://www.anthropic.com/news/anthropic-partners-with-the-university-of-chicago-s-becker-friedman-institute-on-ai-economic</link>
-      <description>Announcements</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-partners-with-the-university-of-chicago-s-becker-friedman-institute-on-ai-economic</guid>
-      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] How Anthropic teams use Claude Code</title>
@@ -492,25 +478,39 @@
       <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>[Anthropic News] Seoul becomes Anthropic’s third office in Asia-Pacific as we continue our international growth</title>
+      <link>https://www.anthropic.com/news/seoul-becomes-third-anthropic-office-in-asia-pacific</link>
+      <description>Announcements</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/seoul-becomes-third-anthropic-office-in-asia-pacific</guid>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Expanding our use of Google Cloud TPUs and Services</title>
+      <link>https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services</link>
+      <description>Announcements</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services</guid>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[Anthropic News] Anthropic raises $13B Series F at $183B post-money valuation</title>
       <link>https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation</link>
       <description>Announcements</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation</guid>
-      <pubDate>Thu, 23 Oct 2025 20:16:34 +0000</pubDate>
+      <pubDate>Fri, 24 Oct 2025 01:06:15 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Thoughts on America’s AI Action Plan</title>
       <link>https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</link>
       <description>Policy</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</guid>
-      <pubDate>Thu, 23 Oct 2025 20:16:34 +0000</pubDate>
+      <pubDate>Fri, 24 Oct 2025 01:06:15 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Introducing Claude Sonnet 4.5</title>
       <link>https://www.anthropic.com/news/claude-sonnet-4-5</link>
       <description>Announcements</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-4-5</guid>
-      <pubDate>Thu, 23 Oct 2025 20:16:34 +0000</pubDate>
+      <pubDate>Fri, 24 Oct 2025 01:06:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
