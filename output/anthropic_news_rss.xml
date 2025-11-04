@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Nov 2025 07:16:20 +0000</lastBuildDate>
-    <item>
-      <title>Introducing the Anthropic Economic Futures Program</title>
-      <link>https://www.anthropic.com/news/introducing-the-anthropic-economic-futures-program</link>
-      <description>Announcements</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/introducing-the-anthropic-economic-futures-program</guid>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Nov 2025 09:18:17 +0000</lastBuildDate>
     <item>
       <title>The need for transparency in Frontier AI</title>
       <link>https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai</link>
@@ -338,25 +331,32 @@
       <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Anthropic and Iceland announce one of the world’s first national AI education pilots</title>
+      <link>https://www.anthropic.com/news/anthropic-and-iceland-announce-one-of-the-world-s-first-national-ai-education-pilots</link>
+      <description>Announcements</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-and-iceland-announce-one-of-the-world-s-first-national-ai-education-pilots</guid>
+      <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Introducing Claude Sonnet 4.5</title>
       <link>https://www.anthropic.com/news/claude-sonnet-4-5</link>
       <description>Announcements</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-4-5</guid>
-      <pubDate>Tue, 04 Nov 2025 07:16:16 +0000</pubDate>
+      <pubDate>Tue, 04 Nov 2025 09:18:13 +0000</pubDate>
     </item>
     <item>
       <title>Thoughts on America’s AI Action Plan</title>
       <link>https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</link>
       <description>Policy</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</guid>
-      <pubDate>Tue, 04 Nov 2025 07:16:16 +0000</pubDate>
+      <pubDate>Tue, 04 Nov 2025 09:18:13 +0000</pubDate>
     </item>
     <item>
       <title>Anthropic raises $13B Series F at $183B post-money valuation</title>
       <link>https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation</link>
       <description>Announcements</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation</guid>
-      <pubDate>Tue, 04 Nov 2025 07:16:16 +0000</pubDate>
+      <pubDate>Tue, 04 Nov 2025 09:18:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
