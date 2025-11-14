@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Nov 2025 08:21:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 09:17:28 +0000</lastBuildDate>
     <item>
       <title>[Anthropic Engineering Blog] Introducing Contextual Retrieval</title>
       <link>https://www.anthropic.com/engineering/contextual-retrieval</link>
@@ -56,27 +56,6 @@
       <description>Desktop Extensions: One-click MCP server installation for Claude Desktop</description>
       <guid isPermaLink="true">https://www.anthropic.com/engineering/desktop-extensions</guid>
       <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Paul Smith to join Anthropic as Chief Commercial Officer</title>
-      <link>https://www.anthropic.com/news/paul-smith-to-join-anthropic</link>
-      <description>Paul Smith to join Anthropic as Chief Commercial Officer</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/paul-smith-to-join-anthropic</guid>
-      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Claude for Financial Services</title>
-      <link>https://www.anthropic.com/news/claude-for-financial-services</link>
-      <description>Product</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-for-financial-services</guid>
-      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Investing in energy to secure America's AI future</title>
-      <link>https://www.anthropic.com/news/investing-in-energy-to-secure-america-s-ai-future</link>
-      <description>Alignment</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/investing-in-energy-to-secure-america-s-ai-future</guid>
-      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Mistral AI - News &amp; Updates] Voxtral</title>
@@ -499,25 +478,46 @@
       <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>[Anthropic News] Disrupting the first reported AI-orchestrated cyber espionage campaign</title>
+      <link>https://www.anthropic.com/news/disrupting-AI-espionage</link>
+      <description>Policy</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/disrupting-AI-espionage</guid>
+      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] The state of Maryland partners with Anthropic to better serve residents</title>
+      <link>https://www.anthropic.com/news/maryland-partnership</link>
+      <description>Announcements</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/maryland-partnership</guid>
+      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Measuring political bias in Claude</title>
+      <link>https://www.anthropic.com/news/political-even-handedness</link>
+      <description>Product</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/political-even-handedness</guid>
+      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[Anthropic News] Anthropic raises $13B Series F at $183B post-money valuation</title>
       <link>https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation</link>
       <description>Announcements</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation</guid>
-      <pubDate>Thu, 13 Nov 2025 11:14:25 +0000</pubDate>
+      <pubDate>Fri, 14 Nov 2025 09:17:24 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Thoughts on America’s AI Action Plan</title>
       <link>https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</link>
       <description>Policy</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</guid>
-      <pubDate>Thu, 13 Nov 2025 11:14:25 +0000</pubDate>
+      <pubDate>Fri, 14 Nov 2025 09:17:24 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Introducing Claude Sonnet 4.5</title>
       <link>https://www.anthropic.com/news/claude-sonnet-4-5</link>
       <description>Announcements</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-4-5</guid>
-      <pubDate>Thu, 13 Nov 2025 11:14:25 +0000</pubDate>
+      <pubDate>Fri, 14 Nov 2025 09:17:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
