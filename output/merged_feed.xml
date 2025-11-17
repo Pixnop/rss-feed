@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Nov 2025 15:18:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 16:21:23 +0000</lastBuildDate>
     <item>
       <title>[Anthropic Engineering Blog] Introducing Contextual Retrieval</title>
       <link>https://www.anthropic.com/engineering/contextual-retrieval</link>
@@ -76,13 +76,6 @@
       <link>https://www.anthropic.com/news/build-ai-in-america</link>
       <description>Policy</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/build-ai-in-america</guid>
-      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Anthropic to sign the EU Code of Practice</title>
-      <link>https://www.anthropic.com/news/eu-code-practice</link>
-      <description>Anthropic to sign the EU Code of Practice</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/eu-code-practice</guid>
       <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -503,21 +496,28 @@
       <link>https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation</link>
       <description>Announcements</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation</guid>
-      <pubDate>Sun, 16 Nov 2025 15:13:38 +0000</pubDate>
+      <pubDate>Mon, 17 Nov 2025 16:21:19 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Thoughts on America’s AI Action Plan</title>
       <link>https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</link>
       <description>Policy</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</guid>
-      <pubDate>Sun, 16 Nov 2025 15:13:38 +0000</pubDate>
+      <pubDate>Mon, 17 Nov 2025 16:21:19 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Introducing Claude Sonnet 4.5</title>
       <link>https://www.anthropic.com/news/claude-sonnet-4-5</link>
       <description>Announcements</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-4-5</guid>
-      <pubDate>Sun, 16 Nov 2025 15:13:38 +0000</pubDate>
+      <pubDate>Mon, 17 Nov 2025 16:21:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Anthropic partners with Rwandan Government and ALX to bring AI education to hundreds of thousands of learners across Africa</title>
+      <link>https://www.anthropic.com/news/rwandan-government-partnership-ai-education</link>
+      <description>Announcements</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/rwandan-government-partnership-ai-education</guid>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
