@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Nov 2025 16:21:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 17:15:56 +0000</lastBuildDate>
     <item>
       <title>[Anthropic Engineering Blog] Introducing Contextual Retrieval</title>
       <link>https://www.anthropic.com/engineering/contextual-retrieval</link>
@@ -72,13 +72,6 @@
       <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Anthropic News] Build AI in America</title>
-      <link>https://www.anthropic.com/news/build-ai-in-america</link>
-      <description>Policy</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/build-ai-in-america</guid>
-      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Mistral AI - News &amp; Updates] Our contribution to a global environmental standard for AI</title>
       <link>https://mistral.ai/news/our-contribution-to-a-global-environmental-standard-for-ai</link>
       <description>Our contribution to a global environmental standard for AI</description>
@@ -90,13 +83,6 @@
       <link>https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</link>
       <description>Policy</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</guid>
-      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Anthropic partners with the University of Chicago’s Becker Friedman Institute on AI economic research</title>
-      <link>https://www.anthropic.com/news/anthropic-partners-with-the-university-of-chicago-s-becker-friedman-institute-on-ai-economic</link>
-      <description>Announcements</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-partners-with-the-university-of-chicago-s-becker-friedman-institute-on-ai-economic</guid>
       <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -492,6 +478,20 @@
       <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>[Anthropic News] Claude now available in Microsoft Foundry and Microsoft 365 Copilot</title>
+      <link>https://www.anthropic.com/news/claude-in-microsoft-foundry</link>
+      <description>Product</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-in-microsoft-foundry</guid>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Microsoft, NVIDIA and Anthropic announce strategic partnerships</title>
+      <link>https://www.anthropic.com/news/microsoft-nvidia-anthropic-announce-strategic-partnerships</link>
+      <description>Announcements</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/microsoft-nvidia-anthropic-announce-strategic-partnerships</guid>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[Anthropic News] Anthropic partners with Rwandan Government and ALX to bring AI education to hundreds of thousands of learners across Africa</title>
       <link>https://www.anthropic.com/news/rwandan-government-partnership-ai-education</link>
       <description>Announcements</description>
@@ -503,21 +503,21 @@
       <link>https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation</link>
       <description>Announcements</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation</guid>
-      <pubDate>Tue, 18 Nov 2025 14:16:06 +0000</pubDate>
+      <pubDate>Tue, 18 Nov 2025 17:15:52 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Thoughts on America’s AI Action Plan</title>
       <link>https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</link>
       <description>Policy</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</guid>
-      <pubDate>Tue, 18 Nov 2025 14:16:06 +0000</pubDate>
+      <pubDate>Tue, 18 Nov 2025 17:15:52 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Introducing Claude Sonnet 4.5</title>
       <link>https://www.anthropic.com/news/claude-sonnet-4-5</link>
       <description>Announcements</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-4-5</guid>
-      <pubDate>Tue, 18 Nov 2025 14:16:06 +0000</pubDate>
+      <pubDate>Tue, 18 Nov 2025 17:15:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
