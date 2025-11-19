@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Nov 2025 12:33:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 13:29:18 +0000</lastBuildDate>
     <item>
       <title>[Anthropic Engineering Blog] Introducing Contextual Retrieval</title>
       <link>https://www.anthropic.com/engineering/contextual-retrieval</link>
@@ -56,13 +56,6 @@
       <description>Desktop Extensions: One-click MCP server installation for Claude Desktop</description>
       <guid isPermaLink="true">https://www.anthropic.com/engineering/desktop-extensions</guid>
       <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Mistral AI - News &amp; Updates] Voxtral</title>
-      <link>https://mistral.ai/news/voxtral</link>
-      <description>Introducing frontier open source speech understanding models.</description>
-      <guid isPermaLink="true">https://mistral.ai/news/voxtral</guid>
-      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Mistral AI - News &amp; Updates] Le Chat dives deep.</title>
@@ -497,6 +490,13 @@
       <description>Announcements</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/rwandan-government-partnership-ai-education</guid>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Mistral AI - News &amp; Updates] Mistral AI - KI für Deutschland</title>
+      <link>https://mistral.ai/news/ki-fur-deutschland</link>
+      <description>Mistral AI - KI für Deutschland</description>
+      <guid isPermaLink="true">https://mistral.ai/news/ki-fur-deutschland</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Anthropic raises $13B Series F at $183B post-money valuation</title>
