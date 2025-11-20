@@ -7,356 +7,104 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Nov 2025 03:06:16 +0000</lastBuildDate>
-    <item>
-      <title>Thoughts on America’s AI Action Plan</title>
-      <link>https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</link>
-      <description>Policy</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</guid>
-      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic Signs CMS Health Tech Ecosystem Pledge to Advance Healthcare Interoperability</title>
-      <link>https://www.anthropic.com/news/anthropic-signs-cms-health-tech-ecosystem-pledge-to-advance-healthcare-interoperability</link>
-      <description>Policy</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-signs-cms-health-tech-ecosystem-pledge-to-advance-healthcare-interoperability</guid>
-      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Our framework for developing safe and trustworthy agents</title>
-      <link>https://www.anthropic.com/news/our-framework-for-developing-safe-and-trustworthy-agents</link>
-      <description>Policy</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/our-framework-for-developing-safe-and-trustworthy-agents</guid>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Federal government departments and agencies can now purchase Claude through the GSA schedule</title>
-      <link>https://www.anthropic.com/news/federal-government-departments-and-agencies-can-now-purchase-claude-through-the-gsa-schedule</link>
-      <description>Announcements</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/federal-government-departments-and-agencies-can-now-purchase-claude-through-the-gsa-schedule</guid>
-      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Opus 4.1</title>
-      <link>https://www.anthropic.com/news/claude-opus-4-1</link>
-      <description>Announcements</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-4-1</guid>
-      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic appoints Hidetoshi Tojo as Head of Japan and announces hiring plans</title>
-      <link>https://www.anthropic.com/news/head-of-japan-hiring-plans</link>
-      <description>Anthropic appoints Hidetoshi Tojo as Head of Japan and announces hiring plans</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/head-of-japan-hiring-plans</guid>
-      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Offering expanded Claude access across all three branches of the U.S. government</title>
-      <link>https://www.anthropic.com/news/offering-expanded-claude-access-across-all-three-branches-of-government</link>
-      <description>Announcements</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/offering-expanded-claude-access-across-all-three-branches-of-government</guid>
-      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Building safeguards for Claude</title>
-      <link>https://www.anthropic.com/news/building-safeguards-for-claude</link>
-      <description>Product</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/building-safeguards-for-claude</guid>
-      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Usage policy update</title>
-      <link>https://www.anthropic.com/news/usage-policy-update</link>
-      <description>Policy</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/usage-policy-update</guid>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Code and new admin controls for business plans</title>
-      <link>https://www.anthropic.com/news/claude-code-on-team-and-enterprise</link>
-      <description>Claude Code and new admin controls for business plans</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-code-on-team-and-enterprise</guid>
-      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Developing nuclear safeguards for AI through public-private partnership</title>
-      <link>https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership</link>
-      <description>Announcements</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership</guid>
-      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic launches higher education advisory board and AI Fluency courses</title>
-      <link>https://www.anthropic.com/news/anthropic-higher-education-initiatives</link>
-      <description>Announcements</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-higher-education-initiatives</guid>
-      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic Education Report: How educators use Claude</title>
-      <link>https://www.anthropic.com/news/anthropic-education-report-how-educators-use-claude</link>
-      <description>Societal Impacts</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-education-report-how-educators-use-claude</guid>
-      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing the Anthropic National Security and Public Sector Advisory Council</title>
-      <link>https://www.anthropic.com/news/introducing-the-anthropic-national-security-and-public-sector-advisory-council</link>
-      <description>Announcements</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/introducing-the-anthropic-national-security-and-public-sector-advisory-council</guid>
-      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Detecting and countering misuse of AI: August 2025</title>
-      <link>https://www.anthropic.com/news/detecting-countering-misuse-aug-2025</link>
-      <description>Detecting and countering misuse of AI: August 2025</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/detecting-countering-misuse-aug-2025</guid>
-      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updates to Consumer Terms and Privacy Policy</title>
-      <link>https://www.anthropic.com/news/updates-to-our-consumer-terms</link>
-      <description>Product</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/updates-to-our-consumer-terms</guid>
-      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic raises $13B Series F at $183B post-money valuation</title>
-      <link>https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation</link>
-      <description>Announcements</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation</guid>
-      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic Signs White House Pledge to America's Youth: Investing in AI Education</title>
-      <link>https://www.anthropic.com/news/anthropic-signs-pledge-to-americas-youth-investing-in-ai-education</link>
-      <description>Announcements</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-signs-pledge-to-americas-youth-investing-in-ai-education</guid>
-      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updating restrictions of sales to unsupported regions</title>
-      <link>https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions</link>
-      <description>Announcements</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions</guid>
-      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic is endorsing SB 53</title>
-      <link>https://www.anthropic.com/news/anthropic-is-endorsing-sb-53</link>
-      <description>Announcements</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-is-endorsing-sb-53</guid>
-      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Strengthening our safeguards through collaboration with US CAISI and UK AISI</title>
-      <link>https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi</link>
-      <description>Announcements</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi</guid>
-      <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude is now generally available in Xcode</title>
-      <link>https://www.anthropic.com/news/claude-in-xcode</link>
-      <description>Claude is now generally available in Xcode</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-in-xcode</guid>
-      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic expands global leadership in enterprise AI, naming Chris Ciauri as Managing Director of International</title>
-      <link>https://www.anthropic.com/news/anthropic-expands-global-leadership-in-enterprise-ai-naming-chris-ciauri-as-managing-director-of</link>
-      <description>Announcements</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-expands-global-leadership-in-enterprise-ai-naming-chris-ciauri-as-managing-director-of</guid>
-      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Claude Sonnet 4.5</title>
-      <link>https://www.anthropic.com/news/claude-sonnet-4-5</link>
-      <description>Announcements</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-4-5</guid>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Enabling Claude Code to work more autonomously</title>
-      <link>https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously</link>
-      <description>Product</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously</guid>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deloitte will make Claude available to 470,000 people across its global network</title>
-      <link>https://www.anthropic.com/news/deloitte-anthropic-partnership</link>
-      <description>Announcements</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/deloitte-anthropic-partnership</guid>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rahul Patil joins Anthropic as Chief Technology Officer</title>
-      <link>https://www.anthropic.com/news/rahul-patil-joins-anthropic</link>
-      <description>Rahul Patil joins Anthropic as Chief Technology Officer</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/rahul-patil-joins-anthropic</guid>
-      <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Expanding our global operations to India with our second Asia Pacific office</title>
-      <link>https://www.anthropic.com/news/expanding-global-operations-to-india</link>
-      <description>Announcements</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/expanding-global-operations-to-india</guid>
-      <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic and Salesforce expand partnership to bring Claude to regulated industries</title>
-      <link>https://www.anthropic.com/news/salesforce-anthropic-expanded-partnership</link>
-      <description>Announcements</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/salesforce-anthropic-expanded-partnership</guid>
-      <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Claude Haiku 4.5</title>
-      <link>https://www.anthropic.com/news/claude-haiku-4-5</link>
-      <description>Product</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-haiku-4-5</guid>
-      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude for Life Sciences</title>
-      <link>https://www.anthropic.com/news/claude-for-life-sciences</link>
-      <description>Announcements</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-for-life-sciences</guid>
-      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A statement from Dario Amodei on Anthropic's commitment to American AI leadership</title>
-      <link>https://www.anthropic.com/news/statement-dario-amodei-american-ai-leadership</link>
-      <description>Announcements</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/statement-dario-amodei-american-ai-leadership</guid>
-      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Expanding our use of Google Cloud TPUs and Services</title>
-      <link>https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services</link>
-      <description>Announcements</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services</guid>
-      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Seoul becomes Anthropic’s third office in Asia-Pacific as we continue our international growth</title>
-      <link>https://www.anthropic.com/news/seoul-becomes-third-anthropic-office-in-asia-pacific</link>
-      <description>Announcements</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/seoul-becomes-third-anthropic-office-in-asia-pacific</guid>
-      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Advancing Claude for Financial Services</title>
-      <link>https://www.anthropic.com/news/advancing-claude-for-financial-services</link>
-      <description>Announcements</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/advancing-claude-for-financial-services</guid>
-      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic officially opens Tokyo office, signs Memorandum of Cooperation with the Japan AI Safety Institute</title>
-      <link>https://www.anthropic.com/news/opening-our-tokyo-office</link>
-      <description>Announcements</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/opening-our-tokyo-office</guid>
-      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cognizant will make Claude available to 350,000 employees, accelerating enterprise AI adoption and internal transformation</title>
-      <link>https://www.anthropic.com/news/cognizant-partnership</link>
-      <description>Announcements</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/cognizant-partnership</guid>
-      <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 20 Nov 2025 22:14:52 +0000</lastBuildDate>
     <item>
       <title>Anthropic and Iceland announce one of the world’s first national AI education pilots</title>
       <link>https://www.anthropic.com/news/anthropic-and-iceland-announce-one-of-the-world-s-first-national-ai-education-pilots</link>
-      <description>Announcements</description>
+      <description>Anthropic and Iceland announce one of the world’s first national AI education pilots</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-and-iceland-announce-one-of-the-world-s-first-national-ai-education-pilots</guid>
       <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Launching the Anthropic Economic Futures Programme in the UK and Europe</title>
       <link>https://www.anthropic.com/news/economic-futures-uk-europe</link>
-      <description>Economic Research</description>
+      <description>Launching the Anthropic Economic Futures Programme in the UK and Europe</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/economic-futures-uk-europe</guid>
       <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>New offices in Paris and Munich expand Anthropic’s European presence</title>
       <link>https://www.anthropic.com/news/new-offices-in-paris-and-munich-expand-european-presence</link>
-      <description>Announcements</description>
+      <description>New offices in Paris and Munich expand Anthropic’s European presence</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/new-offices-in-paris-and-munich-expand-european-presence</guid>
       <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Anthropic invests $50 billion in American AI infrastructure</title>
       <link>https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure</link>
-      <description>Announcements</description>
+      <description>Anthropic invests $50 billion in American AI infrastructure</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure</guid>
       <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Measuring political bias in Claude</title>
       <link>https://www.anthropic.com/news/political-even-handedness</link>
-      <description>Product</description>
+      <description>Measuring political bias in Claude</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/political-even-handedness</guid>
       <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The state of Maryland partners with Anthropic to better serve residents</title>
       <link>https://www.anthropic.com/news/maryland-partnership</link>
-      <description>Announcements</description>
+      <description>The state of Maryland partners with Anthropic to better serve residents</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/maryland-partnership</guid>
       <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Disrupting the first reported AI-orchestrated cyber espionage campaign</title>
       <link>https://www.anthropic.com/news/disrupting-AI-espionage</link>
-      <description>Policy</description>
+      <description>Disrupting the first reported AI-orchestrated cyber espionage campaign</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/disrupting-AI-espionage</guid>
       <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Anthropic partners with Rwandan Government and ALX to bring AI education to hundreds of thousands of learners across Africa</title>
       <link>https://www.anthropic.com/news/rwandan-government-partnership-ai-education</link>
-      <description>Announcements</description>
+      <description>Anthropic partners with Rwandan Government and ALX to bring AI education to hundreds of thousands of learners across Africa</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/rwandan-government-partnership-ai-education</guid>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft, NVIDIA, and Anthropic announce strategic partnerships</title>
       <link>https://www.anthropic.com/news/microsoft-nvidia-anthropic-announce-strategic-partnerships</link>
-      <description>Announcements</description>
+      <description>Microsoft, NVIDIA, and Anthropic announce strategic partnerships</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/microsoft-nvidia-anthropic-announce-strategic-partnerships</guid>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Claude now available in Microsoft Foundry and Microsoft 365 Copilot</title>
       <link>https://www.anthropic.com/news/claude-in-microsoft-foundry</link>
-      <description>Product</description>
+      <description>Claude now available in Microsoft Foundry and Microsoft 365 Copilot</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-in-microsoft-foundry</guid>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Claude Sonnet 4.5</title>
       <link>https://www.anthropic.com/news/claude-sonnet-4-5</link>
-      <description>Announcements</description>
+      <description>Claude Sonnet 4.5 sets new benchmark records in coding, reasoning, and computer use while being Anthropic's most aligned model, accompanied by the release of the Claude Agent SDK for building capable agents</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-4-5</guid>
-      <pubDate>Thu, 20 Nov 2025 03:06:12 +0000</pubDate>
+      <pubDate>Thu, 20 Nov 2025 22:14:52 +0000</pubDate>
     </item>
     <item>
-      <title>Thoughts on America’s AI Action Plan</title>
-      <link>https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</link>
-      <description>Policy</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</guid>
-      <pubDate>Thu, 20 Nov 2025 03:06:12 +0000</pubDate>
+      <title>Introducing Claude Haiku 4.5</title>
+      <link>https://www.anthropic.com/news/claude-haiku-4-5</link>
+      <description>Claude Haiku 4.5 matches state-of-the-art coding capabilities from months ago while delivering unprecedented speed and cost-efficiency for complex tasks.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-haiku-4-5</guid>
+      <pubDate>Thu, 20 Nov 2025 22:14:52 +0000</pubDate>
     </item>
     <item>
       <title>Anthropic raises $13B Series F at $183B post-money valuation</title>
       <link>https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation</link>
-      <description>Announcements</description>
+      <description>Anthropic raised $13 billion in a Series F round at a $183 billion valuation to expand enterprise offerings, safety research, and international growth as revenue grew from $1 billion to over $5 billion in eight months.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation</guid>
-      <pubDate>Thu, 20 Nov 2025 03:06:12 +0000</pubDate>
+      <pubDate>Thu, 20 Nov 2025 22:14:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thoughts on America’s AI Action Plan</title>
+      <link>https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</link>
+      <description>Anthropic's response to the White House AI Action Plan supports infrastructure and safety measures while calling for stronger export controls and transparency requirements to maintain American AI leadership.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</guid>
+      <pubDate>Thu, 20 Nov 2025 22:14:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
