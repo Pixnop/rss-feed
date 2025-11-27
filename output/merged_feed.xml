@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Nov 2025 05:17:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 06:25:45 +0000</lastBuildDate>
     <item>
       <title>[Anthropic Engineering Blog] Introducing Contextual Retrieval</title>
       <link>https://www.anthropic.com/engineering/contextual-retrieval</link>
@@ -58,55 +58,6 @@
       <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Mistral AI - News &amp; Updates] Le Chat dives deep.</title>
-      <link>https://mistral.ai/news/le-chat-dives-deep</link>
-      <description>Introducing Deep Research (Preview), plus Audio-in, Projects, and other updates.</description>
-      <guid isPermaLink="true">https://mistral.ai/news/le-chat-dives-deep</guid>
-      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Mistral AI - News &amp; Updates] Our contribution to a global environmental standard for AI</title>
-      <link>https://mistral.ai/news/our-contribution-to-a-global-environmental-standard-for-ai</link>
-      <description>Our contribution to a global environmental standard for AI</description>
-      <guid isPermaLink="true">https://mistral.ai/news/our-contribution-to-a-global-environmental-standard-for-ai</guid>
-      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Mistral AI - News &amp; Updates] Announcing Codestral 25.08 and the Complete Mistral Coding Stack for Enterprise</title>
-      <link>https://mistral.ai/news/codestral-25-08</link>
-      <description>Announcing Codestral 25.08 and the Complete Mistral Coding Stack for Enterprise</description>
-      <guid isPermaLink="true">https://mistral.ai/news/codestral-25-08</guid>
-      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Mistral AI - News &amp; Updates] Unlocking the potential of vision language models on satellite imagery through fine-tuning</title>
-      <link>https://mistral.ai/news/unlocking-potential-vision-language-models-satellite-imagery-fine-tuning</link>
-      <description>Unlocking the potential of vision language models on satellite imagery through fine-tuning</description>
-      <guid isPermaLink="true">https://mistral.ai/news/unlocking-potential-vision-language-models-satellite-imagery-fine-tuning</guid>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Mistral AI - News &amp; Updates] Make Memory work for you.</title>
-      <link>https://mistral.ai/news/memory</link>
-      <description>Designing transparency and control into AI recall.</description>
-      <guid isPermaLink="true">https://mistral.ai/news/memory</guid>
-      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Mistral AI - News &amp; Updates] Le Chat. Custom MCP connectors. Memories.</title>
-      <link>https://mistral.ai/news/le-chat-mcp-connectors-memories</link>
-      <description>Le Chat now integrates with 20+ enterprise platforms—powered by MCP—and remembers what matters with Memories.</description>
-      <guid isPermaLink="true">https://mistral.ai/news/le-chat-mcp-connectors-memories</guid>
-      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Mistral AI - News &amp; Updates] Mistral AI raises 1.7B€ to accelerate technological progress with AI</title>
-      <link>https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai</link>
-      <description>Mistral AI raises 1.7B€ to accelerate technological progress with AI</description>
-      <guid isPermaLink="true">https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai</guid>
-      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Anthropic Engineering Blog] Writing effective tools for agents — with agents</title>
       <link>https://www.anthropic.com/engineering/writing-tools-for-agents</link>
       <description>Writing effective tools for agents — with agents</description>
@@ -152,13 +103,6 @@
       <title>[Mistral AI - News &amp; Updates] Introducing Mistral AI Studio.</title>
       <link>https://mistral.ai/news/ai-studio</link>
       <description>October 24, 2025</description>
-      <guid isPermaLink="true">https://mistral.ai/news/ai-studio</guid>
-      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Mistral AI - News &amp; Updates] Introducing Mistral AI Studio.</title>
-      <link>https://mistral.ai/news/ai-studio</link>
-      <description>The Production AI Platform.</description>
       <guid isPermaLink="true">https://mistral.ai/news/ai-studio</guid>
       <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
     </item>
@@ -231,13 +175,6 @@
       <description>Anthropic partners with Rwandan Government and ALX to bring AI education to hundreds of thousands of learners across Africa</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/rwandan-government-partnership-ai-education</guid>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Mistral AI - News &amp; Updates] Mistral AI - KI für Deutschland</title>
-      <link>https://mistral.ai/news/ki-fur-deutschland</link>
-      <description>Mistral AI - KI für Deutschland</description>
-      <guid isPermaLink="true">https://mistral.ai/news/ki-fur-deutschland</guid>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Introducing Claude Opus 4.5</title>
