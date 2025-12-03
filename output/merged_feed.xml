@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Dec 2025 12:34:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 13:32:44 +0000</lastBuildDate>
     <item>
       <title>[Anthropic Engineering Blog] Introducing Contextual Retrieval</title>
       <link>https://www.anthropic.com/engineering/contextual-retrieval</link>
@@ -58,48 +58,6 @@
       <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Mistral AI - News &amp; Updates] Our contribution to a global environmental standard for AI</title>
-      <link>https://mistral.ai/news/our-contribution-to-a-global-environmental-standard-for-ai</link>
-      <description>Our contribution to a global environmental standard for AI</description>
-      <guid isPermaLink="true">https://mistral.ai/news/our-contribution-to-a-global-environmental-standard-for-ai</guid>
-      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Mistral AI - News &amp; Updates] Announcing Codestral 25.08 and the Complete Mistral Coding Stack for Enterprise</title>
-      <link>https://mistral.ai/news/codestral-25-08</link>
-      <description>Announcing Codestral 25.08 and the Complete Mistral Coding Stack for Enterprise</description>
-      <guid isPermaLink="true">https://mistral.ai/news/codestral-25-08</guid>
-      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Mistral AI - News &amp; Updates] Unlocking the potential of vision language models on satellite imagery through fine-tuning</title>
-      <link>https://mistral.ai/news/unlocking-potential-vision-language-models-satellite-imagery-fine-tuning</link>
-      <description>Unlocking the potential of vision language models on satellite imagery through fine-tuning</description>
-      <guid isPermaLink="true">https://mistral.ai/news/unlocking-potential-vision-language-models-satellite-imagery-fine-tuning</guid>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Mistral AI - News &amp; Updates] Make Memory work for you.</title>
-      <link>https://mistral.ai/news/memory</link>
-      <description>Designing transparency and control into AI recall.</description>
-      <guid isPermaLink="true">https://mistral.ai/news/memory</guid>
-      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Mistral AI - News &amp; Updates] Le Chat. Custom MCP connectors. Memories.</title>
-      <link>https://mistral.ai/news/le-chat-mcp-connectors-memories</link>
-      <description>Le Chat now integrates with 20+ enterprise platforms—powered by MCP—and remembers what matters with Memories.</description>
-      <guid isPermaLink="true">https://mistral.ai/news/le-chat-mcp-connectors-memories</guid>
-      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Mistral AI - News &amp; Updates] Mistral AI raises 1.7B€ to accelerate technological progress with AI</title>
-      <link>https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai</link>
-      <description>Mistral AI raises 1.7B€ to accelerate technological progress with AI</description>
-      <guid isPermaLink="true">https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai</guid>
-      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Anthropic Engineering Blog] Writing effective tools for agents — with agents</title>
       <link>https://www.anthropic.com/engineering/writing-tools-for-agents</link>
       <description>Writing effective tools for agents — with agents</description>
@@ -140,13 +98,6 @@
       <description>Beyond permission prompts: making Claude Code more secure and autonomous</description>
       <guid isPermaLink="true">https://www.anthropic.com/engineering/claude-code-sandboxing</guid>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Mistral AI - News &amp; Updates] Introducing Mistral AI Studio.</title>
-      <link>https://mistral.ai/news/ai-studio</link>
-      <description>The Production AI Platform.</description>
-      <guid isPermaLink="true">https://mistral.ai/news/ai-studio</guid>
-      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic Engineering Blog] Code execution with MCP: Building more efficient agents</title>
@@ -205,13 +156,6 @@
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Mistral AI - News &amp; Updates] Mistral AI - KI für Deutschland</title>
-      <link>https://mistral.ai/news/ki-fur-deutschland</link>
-      <description>Mistral AI - KI für Deutschland</description>
-      <guid isPermaLink="true">https://mistral.ai/news/ki-fur-deutschland</guid>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Anthropic News] Introducing Claude Opus 4.5</title>
       <link>https://www.anthropic.com/news/claude-opus-4-5</link>
       <description>Introducing Claude Opus 4.5</description>
@@ -240,13 +184,6 @@
       <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Mistral AI - News &amp; Updates] Introducing Mistral 3</title>
-      <link>https://mistral.ai/news/mistral-3</link>
-      <description>A family of frontier open-source multimodal models</description>
-      <guid isPermaLink="true">https://mistral.ai/news/mistral-3</guid>
-      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Anthropic News] Anthropic acquires Bun as Claude Code reaches $1B milestone</title>
       <link>https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone</link>
       <description>Anthropic acquires Bun as Claude Code reaches $1B milestone</description>
@@ -254,39 +191,39 @@
       <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Anthropic News] Thoughts on America’s AI Action Plan</title>
-      <link>https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</link>
-      <description>Anthropic's response to the White House AI Action Plan supports infrastructure and safety measures while calling for stronger export controls and transparency requirements to maintain American AI leadership.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</guid>
-      <pubDate>Wed, 03 Dec 2025 12:34:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Anthropic raises $13B Series F at $183B post-money valuation</title>
-      <link>https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation</link>
-      <description>Anthropic raised $13 billion in a Series F round at a $183 billion valuation to expand enterprise offerings, safety research, and international growth as revenue grew from $1 billion to over $5 billion in eight months.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation</guid>
-      <pubDate>Wed, 03 Dec 2025 12:34:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Introducing Claude Haiku 4.5</title>
-      <link>https://www.anthropic.com/news/claude-haiku-4-5</link>
-      <description>Claude Haiku 4.5 matches state-of-the-art coding capabilities from months ago while delivering unprecedented speed and cost-efficiency for complex tasks.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-haiku-4-5</guid>
-      <pubDate>Wed, 03 Dec 2025 12:34:22 +0000</pubDate>
-    </item>
-    <item>
       <title>[Anthropic News] Introducing Claude Sonnet 4.5</title>
       <link>https://www.anthropic.com/news/claude-sonnet-4-5</link>
       <description>Claude Sonnet 4.5 sets new benchmark records in coding, reasoning, and computer use while being Anthropic's most aligned model, accompanied by the release of the Claude Agent SDK for building capable agents</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-4-5</guid>
-      <pubDate>Wed, 03 Dec 2025 12:34:22 +0000</pubDate>
+      <pubDate>Wed, 03 Dec 2025 13:32:43 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Introducing Claude Opus 4.5</title>
       <link>https://www.anthropic.com/news/claude-opus-4-5</link>
       <description>The best model in the world for coding, agents, and computer use, with meaningful improvements to everyday tasks like slides and spreadsheets. Claude Opus 4.5 delivers frontier performance and dramatically improved token efficiency.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-4-5</guid>
-      <pubDate>Wed, 03 Dec 2025 12:34:22 +0000</pubDate>
+      <pubDate>Wed, 03 Dec 2025 13:32:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Thoughts on America’s AI Action Plan</title>
+      <link>https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</link>
+      <description>Anthropic's response to the White House AI Action Plan supports infrastructure and safety measures while calling for stronger export controls and transparency requirements to maintain American AI leadership.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</guid>
+      <pubDate>Wed, 03 Dec 2025 13:32:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Anthropic raises $13B Series F at $183B post-money valuation</title>
+      <link>https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation</link>
+      <description>Anthropic raised $13 billion in a Series F round at a $183 billion valuation to expand enterprise offerings, safety research, and international growth as revenue grew from $1 billion to over $5 billion in eight months.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation</guid>
+      <pubDate>Wed, 03 Dec 2025 13:32:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Introducing Claude Haiku 4.5</title>
+      <link>https://www.anthropic.com/news/claude-haiku-4-5</link>
+      <description>Claude Haiku 4.5 matches state-of-the-art coding capabilities from months ago while delivering unprecedented speed and cost-efficiency for complex tasks.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-haiku-4-5</guid>
+      <pubDate>Wed, 03 Dec 2025 13:32:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
