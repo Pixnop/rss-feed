@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Dec 2025 18:25:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 19:14:05 +0000</lastBuildDate>
     <item>
       <title>[Anthropic Engineering Blog] Introducing Contextual Retrieval</title>
       <link>https://www.anthropic.com/engineering/contextual-retrieval</link>
@@ -254,39 +254,39 @@
       <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Anthropic News] Introducing Claude Haiku 4.5</title>
-      <link>https://www.anthropic.com/news/claude-haiku-4-5</link>
-      <description>Claude Haiku 4.5 matches state-of-the-art coding capabilities from months ago while delivering unprecedented speed and cost-efficiency for complex tasks.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-haiku-4-5</guid>
-      <pubDate>Tue, 30 Dec 2025 18:25:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Introducing Claude Sonnet 4.5</title>
-      <link>https://www.anthropic.com/news/claude-sonnet-4-5</link>
-      <description>Claude Sonnet 4.5 sets new benchmark records in coding, reasoning, and computer use while being Anthropic's most aligned model, accompanied by the release of the Claude Agent SDK for building capable agents</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-4-5</guid>
-      <pubDate>Tue, 30 Dec 2025 18:25:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Introducing Claude Opus 4.5</title>
-      <link>https://www.anthropic.com/news/claude-opus-4-5</link>
-      <description>The best model in the world for coding, agents, and computer use, with meaningful improvements to everyday tasks like slides and spreadsheets. Claude Opus 4.5 delivers frontier performance and dramatically improved token efficiency.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-4-5</guid>
-      <pubDate>Tue, 30 Dec 2025 18:25:11 +0000</pubDate>
-    </item>
-    <item>
       <title>[Anthropic News] Thoughts on America’s AI Action Plan</title>
       <link>https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</link>
       <description>Anthropic's response to the White House AI Action Plan supports infrastructure and safety measures while calling for stronger export controls and transparency requirements to maintain American AI leadership.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</guid>
-      <pubDate>Tue, 30 Dec 2025 18:25:12 +0000</pubDate>
+      <pubDate>Tue, 30 Dec 2025 19:14:04 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Anthropic raises $13B Series F at $183B post-money valuation</title>
       <link>https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation</link>
       <description>Anthropic raised $13 billion in a Series F round at a $183 billion valuation to expand enterprise offerings, safety research, and international growth as revenue grew from $1 billion to over $5 billion in eight months.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation</guid>
-      <pubDate>Tue, 30 Dec 2025 18:25:12 +0000</pubDate>
+      <pubDate>Tue, 30 Dec 2025 19:14:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Introducing Claude Haiku 4.5</title>
+      <link>https://www.anthropic.com/news/claude-haiku-4-5</link>
+      <description>Claude Haiku 4.5 matches state-of-the-art coding capabilities from months ago while delivering unprecedented speed and cost-efficiency for complex tasks.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-haiku-4-5</guid>
+      <pubDate>Tue, 30 Dec 2025 19:14:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Introducing Claude Sonnet 4.5</title>
+      <link>https://www.anthropic.com/news/claude-sonnet-4-5</link>
+      <description>Claude Sonnet 4.5 sets new benchmark records in coding, reasoning, and computer use while being Anthropic's most aligned model, accompanied by the release of the Claude Agent SDK for building capable agents</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-4-5</guid>
+      <pubDate>Tue, 30 Dec 2025 19:14:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Introducing Claude Opus 4.5</title>
+      <link>https://www.anthropic.com/news/claude-opus-4-5</link>
+      <description>The best model in the world for coding, agents, and computer use, with meaningful improvements to everyday tasks like slides and spreadsheets. Claude Opus 4.5 delivers frontier performance and dramatically improved token efficiency.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-4-5</guid>
+      <pubDate>Tue, 30 Dec 2025 19:14:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
