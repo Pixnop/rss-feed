@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Jan 2026 14:26:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 15:26:35 +0000</lastBuildDate>
     <item>
       <title>[Anthropic Engineering Blog] Introducing Contextual Retrieval</title>
       <link>https://www.anthropic.com/engineering/contextual-retrieval</link>
@@ -163,13 +163,6 @@
       <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Anthropic News] Donating the Model Context Protocol and establishing the Agentic AI Foundation</title>
-      <link>https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation</link>
-      <description>Donating the Model Context Protocol and establishing the Agentic AI Foundation</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation</guid>
-      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Mistral AI - News &amp; Updates] Introducing: Devstral 2 and Mistral Vibe CLI.</title>
       <link>https://mistral.ai/news/devstral-2-vibe-cli</link>
       <description>State-of-the-art, open-source agentic coding models and CLI agent.</description>
@@ -195,13 +188,6 @@
       <link>https://www.anthropic.com/news/genesis-mission-partnership</link>
       <description>Working with the US Department of Energy to unlock the next era of scientific discovery</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/genesis-mission-partnership</guid>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Protecting the well-being of our users</title>
-      <link>https://www.anthropic.com/news/protecting-well-being-of-users</link>
-      <description>Protecting the well-being of our users</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/protecting-well-being-of-users</guid>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -244,35 +230,49 @@
       <link>https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</link>
       <description>Anthropic's response to the White House AI Action Plan supports infrastructure and safety measures while calling for stronger export controls and transparency requirements to maintain American AI leadership.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan</guid>
-      <pubDate>Tue, 20 Jan 2026 14:26:21 +0000</pubDate>
+      <pubDate>Tue, 20 Jan 2026 15:26:34 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Anthropic raises $13B Series F at $183B post-money valuation</title>
       <link>https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation</link>
       <description>Anthropic raised $13 billion in a Series F round at a $183 billion valuation to expand enterprise offerings, safety research, and international growth as revenue grew from $1 billion to over $5 billion in eight months.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation</guid>
-      <pubDate>Tue, 20 Jan 2026 14:26:21 +0000</pubDate>
+      <pubDate>Tue, 20 Jan 2026 15:26:34 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Introducing Claude Haiku 4.5</title>
       <link>https://www.anthropic.com/news/claude-haiku-4-5</link>
       <description>Claude Haiku 4.5 matches state-of-the-art coding capabilities from months ago while delivering unprecedented speed and cost-efficiency for complex tasks.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-haiku-4-5</guid>
-      <pubDate>Tue, 20 Jan 2026 14:26:21 +0000</pubDate>
+      <pubDate>Tue, 20 Jan 2026 15:26:34 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Introducing Claude Sonnet 4.5</title>
       <link>https://www.anthropic.com/news/claude-sonnet-4-5</link>
       <description>Claude Sonnet 4.5 sets new benchmark records in coding, reasoning, and computer use while being Anthropic's most aligned model, accompanied by the release of the Claude Agent SDK for building capable agents</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-4-5</guid>
-      <pubDate>Tue, 20 Jan 2026 14:26:21 +0000</pubDate>
+      <pubDate>Tue, 20 Jan 2026 15:26:34 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Introducing Claude Opus 4.5</title>
       <link>https://www.anthropic.com/news/claude-opus-4-5</link>
       <description>The best model in the world for coding, agents, and computer use, with meaningful improvements to everyday tasks like slides and spreadsheets. Claude Opus 4.5 delivers frontier performance and dramatically improved token efficiency.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-4-5</guid>
-      <pubDate>Tue, 20 Jan 2026 14:26:21 +0000</pubDate>
+      <pubDate>Tue, 20 Jan 2026 15:26:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Mariano-Florentino Cuéllar appointed to Anthropic’s Long-Term Benefit Trust</title>
+      <link>https://www.anthropic.com/news/mariano-florentino-long-term-benefit-trust</link>
+      <description>Mariano-Florentino Cuéllar appointed to Anthropic’s Long-Term Benefit Trust</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/mariano-florentino-long-term-benefit-trust</guid>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Anthropic and Teach For All launch global AI training initiative for educators</title>
+      <link>https://www.anthropic.com/news/anthropic-teach-for-all</link>
+      <description>Anthropic and Teach For All launch global AI training initiative for educators</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-teach-for-all</guid>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
