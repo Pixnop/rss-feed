@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Feb 2026 08:37:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 09:39:13 +0000</lastBuildDate>
     <item>
       <title>How scientists are using Claude to accelerate research and discovery</title>
       <link>https://www.anthropic.com/news/accelerating-scientific-research</link>
@@ -83,28 +83,28 @@
       <link>https://www.anthropic.com/news/claude-is-a-space-to-think</link>
       <description>We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-is-a-space-to-think</guid>
-      <pubDate>Thu, 05 Feb 2026 08:37:02 +0000</pubDate>
+      <pubDate>Thu, 05 Feb 2026 09:39:13 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Claude Opus 4.5</title>
       <link>https://www.anthropic.com/news/claude-opus-4-5</link>
       <description>The best model in the world for coding, agents, and computer use, with meaningful improvements to everyday tasks like slides and spreadsheets. Claude Opus 4.5 delivers frontier performance and dramatically improved token efficiency.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-4-5</guid>
-      <pubDate>Thu, 05 Feb 2026 08:37:02 +0000</pubDate>
+      <pubDate>Thu, 05 Feb 2026 09:39:13 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Claude Sonnet 4.5</title>
       <link>https://www.anthropic.com/news/claude-sonnet-4-5</link>
       <description>Claude Sonnet 4.5 sets new benchmark records in coding, reasoning, and computer use while being Anthropic's most aligned model, accompanied by the release of the Claude Agent SDK for building capable agents</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-4-5</guid>
-      <pubDate>Thu, 05 Feb 2026 08:37:02 +0000</pubDate>
+      <pubDate>Thu, 05 Feb 2026 09:39:13 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Claude Haiku 4.5</title>
       <link>https://www.anthropic.com/news/claude-haiku-4-5</link>
       <description>Claude Haiku 4.5 matches state-of-the-art coding capabilities from months ago while delivering unprecedented speed and cost-efficiency for complex tasks.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-haiku-4-5</guid>
-      <pubDate>Thu, 05 Feb 2026 08:37:02 +0000</pubDate>
+      <pubDate>Thu, 05 Feb 2026 09:39:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
