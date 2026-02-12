@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Feb 2026 11:36:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 12:57:04 +0000</lastBuildDate>
     <item>
       <title>[Anthropic Engineering Blog] Introducing Contextual Retrieval</title>
       <link>https://www.anthropic.com/engineering/contextual-retrieval</link>
@@ -163,13 +163,6 @@
       <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Anthropic News] Anthropic and Teach For All launch global AI training initiative for educators</title>
-      <link>https://www.anthropic.com/news/anthropic-teach-for-all</link>
-      <description>Anthropic and Teach For All launch global AI training initiative for educators</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-teach-for-all</guid>
-      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Mistral AI - News &amp; Updates] Heaps do lie: debugging a memory leak in vLLM.</title>
       <link>https://mistral.ai/news/debugging-memory-leak-in-vllm</link>
       <description>Heaps do lie: debugging a memory leak in vLLM.</description>
@@ -254,32 +247,39 @@
       <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Anthropic News] Introducing Claude Sonnet 4.5</title>
-      <link>https://www.anthropic.com/news/claude-sonnet-4-5</link>
-      <description>Claude Sonnet 4.5 sets new benchmark records in coding, reasoning, and computer use while being Anthropic's most aligned model, accompanied by the release of the Claude Agent SDK for building capable agents</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-4-5</guid>
-      <pubDate>Thu, 12 Feb 2026 11:36:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Claude is a space to think</title>
-      <link>https://www.anthropic.com/news/claude-is-a-space-to-think</link>
-      <description>We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-is-a-space-to-think</guid>
-      <pubDate>Thu, 12 Feb 2026 11:36:26 +0000</pubDate>
+      <title>[Anthropic News] Anthropic is donating $20 million to Public First Action</title>
+      <link>https://www.anthropic.com/news/donate-public-first-action</link>
+      <description>Anthropic is donating $20 million to Public First Action</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/donate-public-first-action</guid>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Introducing Claude Opus 4.6</title>
       <link>https://www.anthropic.com/news/claude-opus-4-6</link>
       <description>We’re upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-4-6</guid>
-      <pubDate>Thu, 12 Feb 2026 11:36:26 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 12:57:03 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Introducing Claude Haiku 4.5</title>
       <link>https://www.anthropic.com/news/claude-haiku-4-5</link>
       <description>Claude Haiku 4.5 matches state-of-the-art coding capabilities from months ago while delivering unprecedented speed and cost-efficiency for complex tasks.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-haiku-4-5</guid>
-      <pubDate>Thu, 12 Feb 2026 11:36:27 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 12:57:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Introducing Claude Sonnet 4.5</title>
+      <link>https://www.anthropic.com/news/claude-sonnet-4-5</link>
+      <description>Claude Sonnet 4.5 sets new benchmark records in coding, reasoning, and computer use while being Anthropic's most aligned model, accompanied by the release of the Claude Agent SDK for building capable agents</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-4-5</guid>
+      <pubDate>Thu, 12 Feb 2026 12:57:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Claude is a space to think</title>
+      <link>https://www.anthropic.com/news/claude-is-a-space-to-think</link>
+      <description>We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-is-a-space-to-think</guid>
+      <pubDate>Thu, 12 Feb 2026 12:57:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
