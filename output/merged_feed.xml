@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Feb 2026 07:31:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 08:26:28 +0000</lastBuildDate>
     <item>
       <title>[Anthropic Engineering Blog] Introducing Contextual Retrieval</title>
       <link>https://www.anthropic.com/engineering/contextual-retrieval</link>
@@ -258,28 +258,28 @@
       <link>https://www.anthropic.com/news/claude-sonnet-4-5</link>
       <description>Claude Sonnet 4.5 sets new benchmark records in coding, reasoning, and computer use while being Anthropic's most aligned model, accompanied by the release of the Claude Agent SDK for building capable agents</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-4-5</guid>
-      <pubDate>Sat, 14 Feb 2026 07:31:04 +0000</pubDate>
+      <pubDate>Sat, 14 Feb 2026 08:26:27 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Claude is a space to think</title>
       <link>https://www.anthropic.com/news/claude-is-a-space-to-think</link>
       <description>We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-is-a-space-to-think</guid>
-      <pubDate>Sat, 14 Feb 2026 07:31:04 +0000</pubDate>
+      <pubDate>Sat, 14 Feb 2026 08:26:27 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Anthropic raises $30 billion in Series G funding at $380 billion post-money valuation</title>
       <link>https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation</link>
       <description>We have raised $30 billion in Series G funding led by GIC and Coatue, valuing Anthropic at $380 billion post-money. The investment will fuel the frontier research, product development, and infrastructure expansions that have made Anthropic the market leader in enterprise AI and coding. Our run-rate revenue is $14 billion, with this figure growing over 10x annually in each of those past three years.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation</guid>
-      <pubDate>Sat, 14 Feb 2026 07:31:04 +0000</pubDate>
+      <pubDate>Sat, 14 Feb 2026 08:26:27 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Introducing Claude Opus 4.6</title>
       <link>https://www.anthropic.com/news/claude-opus-4-6</link>
       <description>We’re upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-4-6</guid>
-      <pubDate>Sat, 14 Feb 2026 07:31:04 +0000</pubDate>
+      <pubDate>Sat, 14 Feb 2026 08:26:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
