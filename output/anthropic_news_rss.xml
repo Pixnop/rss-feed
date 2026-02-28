@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Feb 2026 06:32:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 07:23:06 +0000</lastBuildDate>
     <item>
       <title>Anthropic opens Bengaluru office and announces new partnerships across India</title>
       <link>https://www.anthropic.com/news/bengaluru-office-partnerships-across-india</link>
@@ -83,28 +83,28 @@
       <link>https://www.anthropic.com/news/statement-comments-secretary-war</link>
       <description>Anthropic's response to the Secretary of War and advice to customers.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/statement-comments-secretary-war</guid>
-      <pubDate>Sat, 28 Feb 2026 06:32:04 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 07:23:05 +0000</pubDate>
     </item>
     <item>
       <title>Statement from Dario Amodei on our discussions with the Department of War</title>
       <link>https://www.anthropic.com/news/statement-department-of-war</link>
       <description>A statement from our CEO on national security uses of AI.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/statement-department-of-war</guid>
-      <pubDate>Sat, 28 Feb 2026 06:32:04 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 07:23:05 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Claude Sonnet 4.6</title>
       <link>https://www.anthropic.com/news/claude-sonnet-4-6</link>
       <description>Sonnet 4.6 delivers frontier performance across coding, agents, and professional work at scale.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-4-6</guid>
-      <pubDate>Sat, 28 Feb 2026 06:32:05 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 07:23:05 +0000</pubDate>
     </item>
     <item>
       <title>Claude is a space to think</title>
       <link>https://www.anthropic.com/news/claude-is-a-space-to-think</link>
       <description>We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-is-a-space-to-think</guid>
-      <pubDate>Sat, 28 Feb 2026 06:32:05 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 07:23:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
