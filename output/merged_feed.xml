@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Feb 2026 07:23:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 08:23:06 +0000</lastBuildDate>
     <item>
       <title>[Anthropic Engineering Blog] Introducing Contextual Retrieval</title>
       <link>https://www.anthropic.com/engineering/contextual-retrieval</link>
@@ -58,13 +58,6 @@
       <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Mistral AI - News &amp; Updates] Mistral AI raises 1.7B€ to accelerate technological progress with AI</title>
-      <link>https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai</link>
-      <description>Mistral AI raises 1.7B€ to accelerate technological progress with AI</description>
-      <guid isPermaLink="true">https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai</guid>
-      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Anthropic Engineering Blog] Writing effective tools for agents — with agents</title>
       <link>https://www.anthropic.com/engineering/writing-tools-for-agents</link>
       <description>Writing effective tools for agents — with agents</description>
@@ -107,13 +100,6 @@
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Mistral AI - News &amp; Updates] Introducing Mistral AI Studio.</title>
-      <link>https://mistral.ai/news/ai-studio</link>
-      <description>The Production AI Platform.</description>
-      <guid isPermaLink="true">https://mistral.ai/news/ai-studio</guid>
-      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Anthropic Engineering Blog] Code execution with MCP: Building more efficient agents</title>
       <link>https://www.anthropic.com/engineering/code-execution-with-mcp</link>
       <description>Code execution with MCP: Building more efficient agents</description>
@@ -121,67 +107,11 @@
       <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Mistral AI - News &amp; Updates] Mistral AI - KI für Deutschland</title>
-      <link>https://mistral.ai/news/ki-fur-deutschland</link>
-      <description>Mistral AI - KI für Deutschland</description>
-      <guid isPermaLink="true">https://mistral.ai/news/ki-fur-deutschland</guid>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Anthropic Engineering Blog] Introducing advanced tool use on the Claude Developer Platform</title>
       <link>https://www.anthropic.com/engineering/advanced-tool-use</link>
       <description>Introducing advanced tool use on the Claude Developer Platform</description>
       <guid isPermaLink="true">https://www.anthropic.com/engineering/advanced-tool-use</guid>
       <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Mistral AI - News &amp; Updates] Introducing Mistral 3</title>
-      <link>https://mistral.ai/news/mistral-3</link>
-      <description>A family of frontier open-source multimodal models</description>
-      <guid isPermaLink="true">https://mistral.ai/news/mistral-3</guid>
-      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Mistral AI - News &amp; Updates] Introducing: Devstral 2 and Mistral Vibe CLI.</title>
-      <link>https://mistral.ai/news/devstral-2-vibe-cli</link>
-      <description>State-of-the-art, open-source agentic coding models and CLI agent.</description>
-      <guid isPermaLink="true">https://mistral.ai/news/devstral-2-vibe-cli</guid>
-      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Mistral AI - News &amp; Updates] Introducing Mistral OCR 3</title>
-      <link>https://mistral.ai/news/mistral-ocr-3</link>
-      <description>Achieving a new frontier for both accuracy and efficiency in document processing.</description>
-      <guid isPermaLink="true">https://mistral.ai/news/mistral-ocr-3</guid>
-      <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Mistral AI - News &amp; Updates] Heaps do lie: debugging a memory leak in vLLM.</title>
-      <link>https://mistral.ai/news/debugging-memory-leak-in-vllm</link>
-      <description>Heaps do lie: debugging a memory leak in vLLM.</description>
-      <guid isPermaLink="true">https://mistral.ai/news/debugging-memory-leak-in-vllm</guid>
-      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Mistral AI - News &amp; Updates] Terminally online Mistral Vibe.</title>
-      <link>https://mistral.ai/news/mistral-vibe-2-0</link>
-      <description>Terminally online Mistral Vibe.</description>
-      <guid isPermaLink="true">https://mistral.ai/news/mistral-vibe-2-0</guid>
-      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Mistral AI - News &amp; Updates] Voxtral transcribes at the speed of sound.</title>
-      <link>https://mistral.ai/news/voxtral-transcribe-2</link>
-      <description>February 4, 2026</description>
-      <guid isPermaLink="true">https://mistral.ai/news/voxtral-transcribe-2</guid>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Mistral AI - News &amp; Updates] Voxtral transcribes at the speed of sound.</title>
-      <link>https://mistral.ai/news/voxtral-transcribe-2</link>
-      <description>Precision diarization, real-time transcription, and a new audio playground.</description>
-      <guid isPermaLink="true">https://mistral.ai/news/voxtral-transcribe-2</guid>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Anthropic opens Bengaluru office and announces new partnerships across India</title>
@@ -254,32 +184,102 @@
       <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Anthropic News] Claude is a space to think</title>
-      <link>https://www.anthropic.com/news/claude-is-a-space-to-think</link>
-      <description>We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-is-a-space-to-think</guid>
-      <pubDate>Sat, 28 Feb 2026 07:23:05 +0000</pubDate>
+      <title>[Mistral AI - News &amp; Updates] Mistral AI raises 1.7B€ to accelerate technological progress with AI</title>
+      <link>https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai</link>
+      <description>Mistral AI raises 1.7B€ to accelerate technological progress with AI</description>
+      <guid isPermaLink="true">https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai</guid>
+      <pubDate>Sat, 28 Feb 2026 08:22:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Mistral AI - News &amp; Updates] Introducing Mistral AI Studio.</title>
+      <link>https://mistral.ai/news/ai-studio</link>
+      <description>The Production AI Platform.</description>
+      <guid isPermaLink="true">https://mistral.ai/news/ai-studio</guid>
+      <pubDate>Sat, 28 Feb 2026 08:22:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Mistral AI - News &amp; Updates] Mistral AI - KI für Deutschland</title>
+      <link>https://mistral.ai/news/ki-fur-deutschland</link>
+      <description>Mistral AI - KI für Deutschland</description>
+      <guid isPermaLink="true">https://mistral.ai/news/ki-fur-deutschland</guid>
+      <pubDate>Sat, 28 Feb 2026 08:22:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Mistral AI - News &amp; Updates] Introducing Mistral 3</title>
+      <link>https://mistral.ai/news/mistral-3</link>
+      <description>A family of frontier open-source multimodal models</description>
+      <guid isPermaLink="true">https://mistral.ai/news/mistral-3</guid>
+      <pubDate>Sat, 28 Feb 2026 08:22:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Mistral AI - News &amp; Updates] Introducing: Devstral 2 and Mistral Vibe CLI.</title>
+      <link>https://mistral.ai/news/devstral-2-vibe-cli</link>
+      <description>State-of-the-art, open-source agentic coding models and CLI agent.</description>
+      <guid isPermaLink="true">https://mistral.ai/news/devstral-2-vibe-cli</guid>
+      <pubDate>Sat, 28 Feb 2026 08:22:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Mistral AI - News &amp; Updates] Introducing Mistral OCR 3</title>
+      <link>https://mistral.ai/news/mistral-ocr-3</link>
+      <description>Achieving a new frontier for both accuracy and efficiency in document processing.</description>
+      <guid isPermaLink="true">https://mistral.ai/news/mistral-ocr-3</guid>
+      <pubDate>Sat, 28 Feb 2026 08:22:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Mistral AI - News &amp; Updates] Heaps do lie: debugging a memory leak in vLLM.</title>
+      <link>https://mistral.ai/news/debugging-memory-leak-in-vllm</link>
+      <description>Heaps do lie: debugging a memory leak in vLLM.</description>
+      <guid isPermaLink="true">https://mistral.ai/news/debugging-memory-leak-in-vllm</guid>
+      <pubDate>Sat, 28 Feb 2026 08:22:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Mistral AI - News &amp; Updates] Terminally online Mistral Vibe.</title>
+      <link>https://mistral.ai/news/mistral-vibe-2-0</link>
+      <description>Terminally online Mistral Vibe.</description>
+      <guid isPermaLink="true">https://mistral.ai/news/mistral-vibe-2-0</guid>
+      <pubDate>Sat, 28 Feb 2026 08:22:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Mistral AI - News &amp; Updates] Voxtral transcribes at the speed of sound.</title>
+      <link>https://mistral.ai/news/voxtral-transcribe-2</link>
+      <description>Precision diarization, real-time transcription, and a new audio playground.</description>
+      <guid isPermaLink="true">https://mistral.ai/news/voxtral-transcribe-2</guid>
+      <pubDate>Sat, 28 Feb 2026 08:22:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Mistral AI - News &amp; Updates] Voxtral transcribes at the speed of sound.</title>
+      <link>https://mistral.ai/news/voxtral-transcribe-2</link>
+      <description>Precision diarization, real-time transcription, and a new audio playground.</description>
+      <guid isPermaLink="true">https://mistral.ai/news/voxtral-transcribe-2</guid>
+      <pubDate>Sat, 28 Feb 2026 08:22:47 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Introducing Claude Sonnet 4.6</title>
       <link>https://www.anthropic.com/news/claude-sonnet-4-6</link>
       <description>Sonnet 4.6 delivers frontier performance across coding, agents, and professional work at scale.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-4-6</guid>
-      <pubDate>Sat, 28 Feb 2026 07:23:05 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 08:23:05 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Statement from Dario Amodei on our discussions with the Department of War</title>
       <link>https://www.anthropic.com/news/statement-department-of-war</link>
       <description>A statement from our CEO on national security uses of AI.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/statement-department-of-war</guid>
-      <pubDate>Sat, 28 Feb 2026 07:23:05 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 08:23:05 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Statement on the comments from Secretary of War Pete Hegseth</title>
       <link>https://www.anthropic.com/news/statement-comments-secretary-war</link>
       <description>Anthropic's response to the Secretary of War and advice to customers.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/statement-comments-secretary-war</guid>
-      <pubDate>Sat, 28 Feb 2026 07:23:05 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 08:23:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Claude is a space to think</title>
+      <link>https://www.anthropic.com/news/claude-is-a-space-to-think</link>
+      <description>We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-is-a-space-to-think</guid>
+      <pubDate>Sat, 28 Feb 2026 08:23:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
