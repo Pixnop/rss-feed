@@ -7,76 +7,76 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Mar 2026 07:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 08:44:45 +0000</lastBuildDate>
     <item>
       <title>Introducing Forge</title>
       <link>https://mistral.ai/news/forge</link>
       <description>Today, we’re introducing Forge, a system that allows enterprises to build frontier-grade AI models grounded in their proprietary knowledge.</description>
       <guid isPermaLink="true">https://mistral.ai/news/forge</guid>
-      <pubDate>Tue, 24 Mar 2026 07:02:01 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 08:44:45 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Forge</title>
       <link>https://mistral.ai/news/forge</link>
       <description>Today, we’re introducing Forge, a system that allows enterprises to build frontier-grade AI models grounded in their proprietary knowledge.</description>
       <guid isPermaLink="true">https://mistral.ai/news/forge</guid>
-      <pubDate>Tue, 24 Mar 2026 07:02:02 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 08:44:45 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Mistral Small 4</title>
       <link>https://mistral.ai/news/mistral-small-4</link>
       <description>Introducing Mistral Small 4</description>
       <guid isPermaLink="true">https://mistral.ai/news/mistral-small-4</guid>
-      <pubDate>Tue, 24 Mar 2026 07:02:02 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 08:44:45 +0000</pubDate>
     </item>
     <item>
       <title>Mistral AI partners with NVIDIA to accelerate open frontier models</title>
       <link>https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models</link>
       <description>As a founding member of the NVIDIA Nemotron Coalition, Mistral AI is contributing large-scale model development and multimodal capabilities.</description>
       <guid isPermaLink="true">https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models</guid>
-      <pubDate>Tue, 24 Mar 2026 07:02:02 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 08:44:45 +0000</pubDate>
     </item>
     <item>
       <title>Leanstral: Open-Source foundation for trustworthy vibe-coding</title>
       <link>https://mistral.ai/news/leanstral</link>
       <description>First open-source code agent for Lean 4.</description>
       <guid isPermaLink="true">https://mistral.ai/news/leanstral</guid>
-      <pubDate>Tue, 24 Mar 2026 07:02:02 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 08:44:45 +0000</pubDate>
     </item>
     <item>
       <title>Rails testing on autopilot: Building an agent that writes what developers won't</title>
       <link>https://mistral.ai/news/rails-testing-on-autopilot-building-an-agent-that-writes-what-developers-wont</link>
       <description>Rails testing on autopilot: Building an agent that writes what developers won't</description>
       <guid isPermaLink="true">https://mistral.ai/news/rails-testing-on-autopilot-building-an-agent-that-writes-what-developers-wont</guid>
-      <pubDate>Tue, 24 Mar 2026 07:02:02 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 08:44:45 +0000</pubDate>
     </item>
     <item>
       <title>Voxtral transcribes at the speed of sound.</title>
       <link>https://mistral.ai/news/voxtral-transcribe-2</link>
       <description>Precision diarization, real-time transcription, and a new audio playground.</description>
       <guid isPermaLink="true">https://mistral.ai/news/voxtral-transcribe-2</guid>
-      <pubDate>Tue, 24 Mar 2026 07:02:02 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 08:44:45 +0000</pubDate>
     </item>
     <item>
       <title>Terminally online Mistral Vibe.</title>
       <link>https://mistral.ai/news/mistral-vibe-2-0</link>
       <description>Terminally online Mistral Vibe.</description>
       <guid isPermaLink="true">https://mistral.ai/news/mistral-vibe-2-0</guid>
-      <pubDate>Tue, 24 Mar 2026 07:02:02 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 08:44:45 +0000</pubDate>
     </item>
     <item>
       <title>Heaps do lie: debugging a memory leak in vLLM.</title>
       <link>https://mistral.ai/news/debugging-memory-leak-in-vllm</link>
       <description>Heaps do lie: debugging a memory leak in vLLM.</description>
       <guid isPermaLink="true">https://mistral.ai/news/debugging-memory-leak-in-vllm</guid>
-      <pubDate>Tue, 24 Mar 2026 07:02:02 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 08:44:45 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Mistral OCR 3</title>
       <link>https://mistral.ai/news/mistral-ocr-3</link>
       <description>Achieving a new frontier for both accuracy and efficiency in document processing.</description>
       <guid isPermaLink="true">https://mistral.ai/news/mistral-ocr-3</guid>
-      <pubDate>Tue, 24 Mar 2026 07:02:02 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 08:44:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
