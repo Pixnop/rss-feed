@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2026 17:45:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 18:50:43 +0000</lastBuildDate>
     <item>
       <title>[Anthropic Engineering Blog] Introducing Contextual Retrieval</title>
       <link>https://www.anthropic.com/engineering/contextual-retrieval</link>
@@ -184,95 +184,95 @@
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Mistral AI - News &amp; Updates] Terminally online Mistral Vibe.</title>
-      <link>https://mistral.ai/news/mistral-vibe-2-0</link>
-      <description>Terminally online Mistral Vibe.</description>
-      <guid isPermaLink="true">https://mistral.ai/news/mistral-vibe-2-0</guid>
-      <pubDate>Thu, 02 Apr 2026 17:45:26 +0000</pubDate>
-    </item>
-    <item>
       <title>[Mistral AI - News &amp; Updates] Voxtral transcribes at the speed of sound.</title>
       <link>https://mistral.ai/news/voxtral-transcribe-2</link>
       <description>Precision diarization, real-time transcription, and a new audio playground.</description>
       <guid isPermaLink="true">https://mistral.ai/news/voxtral-transcribe-2</guid>
-      <pubDate>Thu, 02 Apr 2026 17:45:26 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 18:50:30 +0000</pubDate>
     </item>
     <item>
       <title>[Mistral AI - News &amp; Updates] Rails testing on autopilot: Building an agent that writes what developers won't</title>
       <link>https://mistral.ai/news/rails-testing-on-autopilot-building-an-agent-that-writes-what-developers-wont</link>
       <description>Rails testing on autopilot: Building an agent that writes what developers won't</description>
       <guid isPermaLink="true">https://mistral.ai/news/rails-testing-on-autopilot-building-an-agent-that-writes-what-developers-wont</guid>
-      <pubDate>Thu, 02 Apr 2026 17:45:26 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 18:50:30 +0000</pubDate>
     </item>
     <item>
       <title>[Mistral AI - News &amp; Updates] Leanstral: Open-Source foundation for trustworthy vibe-coding</title>
       <link>https://mistral.ai/news/leanstral</link>
       <description>First open-source code agent for Lean 4.</description>
       <guid isPermaLink="true">https://mistral.ai/news/leanstral</guid>
-      <pubDate>Thu, 02 Apr 2026 17:45:26 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 18:50:30 +0000</pubDate>
     </item>
     <item>
       <title>[Mistral AI - News &amp; Updates] Mistral AI partners with NVIDIA to accelerate open frontier models</title>
       <link>https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models</link>
       <description>As a founding member of the NVIDIA Nemotron Coalition, Mistral AI is contributing large-scale model development and multimodal capabilities.</description>
       <guid isPermaLink="true">https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models</guid>
-      <pubDate>Thu, 02 Apr 2026 17:45:26 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 18:50:30 +0000</pubDate>
     </item>
     <item>
       <title>[Mistral AI - News &amp; Updates] Introducing Mistral Small 4</title>
       <link>https://mistral.ai/news/mistral-small-4</link>
       <description>Introducing Mistral Small 4</description>
       <guid isPermaLink="true">https://mistral.ai/news/mistral-small-4</guid>
-      <pubDate>Thu, 02 Apr 2026 17:45:26 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 18:50:30 +0000</pubDate>
     </item>
     <item>
       <title>[Mistral AI - News &amp; Updates] Introducing Forge</title>
       <link>https://mistral.ai/news/forge</link>
       <description>Today, we’re introducing Forge, a system that allows enterprises to build frontier-grade AI models grounded in their proprietary knowledge.</description>
       <guid isPermaLink="true">https://mistral.ai/news/forge</guid>
-      <pubDate>Thu, 02 Apr 2026 17:45:26 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 18:50:30 +0000</pubDate>
     </item>
     <item>
       <title>[Mistral AI - News &amp; Updates] Speaking of Voxtral</title>
       <link>https://mistral.ai/news/voxtral-tts</link>
       <description>Voxtral TTS: A frontier, open-weights text-to-speech model that’s fast, instantly adaptable, and produces lifelike speech for voice agents.</description>
       <guid isPermaLink="true">https://mistral.ai/news/voxtral-tts</guid>
-      <pubDate>Thu, 02 Apr 2026 17:45:26 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 18:50:30 +0000</pubDate>
     </item>
     <item>
       <title>[Mistral AI - News &amp; Updates] Spaces: A CLI Built for Humans and Agents</title>
       <link>https://mistral.ai/news/spaces</link>
       <description>Designing for agents forced us to build better tools for everyone.</description>
       <guid isPermaLink="true">https://mistral.ai/news/spaces</guid>
-      <pubDate>Thu, 02 Apr 2026 17:45:26 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 18:50:30 +0000</pubDate>
     </item>
     <item>
       <title>[Mistral AI - News &amp; Updates] Speaking of Voxtral</title>
       <link>https://mistral.ai/news/voxtral-tts</link>
       <description>Voxtral TTS: A frontier, open-weights text-to-speech model that’s fast, instantly adaptable, and produces lifelike speech for voice agents.</description>
       <guid isPermaLink="true">https://mistral.ai/news/voxtral-tts</guid>
-      <pubDate>Thu, 02 Apr 2026 17:45:26 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 18:50:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Mistral AI - News &amp; Updates] Terminally online Mistral Vibe.</title>
+      <link>https://mistral.ai/news/mistral-vibe-2-0</link>
+      <description>Terminally online Mistral Vibe.</description>
+      <guid isPermaLink="true">https://mistral.ai/news/mistral-vibe-2-0</guid>
+      <pubDate>Thu, 02 Apr 2026 18:50:31 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Claude is a space to think</title>
       <link>https://www.anthropic.com/news/claude-is-a-space-to-think</link>
       <description>We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-is-a-space-to-think</guid>
-      <pubDate>Thu, 02 Apr 2026 17:45:40 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 18:50:43 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Introducing Claude Opus 4.6</title>
       <link>https://www.anthropic.com/news/claude-opus-4-6</link>
       <description>We’re upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-4-6</guid>
-      <pubDate>Thu, 02 Apr 2026 17:45:40 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 18:50:43 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Introducing Claude Sonnet 4.6</title>
       <link>https://www.anthropic.com/news/claude-sonnet-4-6</link>
       <description>Sonnet 4.6 delivers frontier performance across coding, agents, and professional work at scale.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-sonnet-4-6</guid>
-      <pubDate>Thu, 02 Apr 2026 17:45:40 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 18:50:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
