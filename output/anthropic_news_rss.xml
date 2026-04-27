@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Apr 2026 21:52:29 +0000</lastBuildDate>
-    <item>
-      <title>Introducing The Anthropic Institute</title>
-      <link>https://www.anthropic.com/news/the-anthropic-institute</link>
-      <description>Introducing The Anthropic Institute</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/the-anthropic-institute</guid>
-      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 27 Apr 2026 22:45:37 +0000</lastBuildDate>
     <item>
       <title>Anthropic invests $100 million into the Claude Partner Network</title>
       <link>https://www.anthropic.com/news/claude-partner-network</link>
@@ -79,25 +72,32 @@
       <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Anthropic names Theo Hourmouzis General Manager of Australia &amp; New Zealand and officially opens Sydney office</title>
+      <link>https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand</link>
+      <description>Anthropic names Theo Hourmouzis General Manager of Australia &amp; New Zealand and officially opens Sydney office</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand</guid>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Introducing Claude Opus 4.7</title>
       <link>https://www.anthropic.com/news/claude-opus-4-7</link>
       <description>Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency on the work that matters most.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-4-7</guid>
-      <pubDate>Mon, 27 Apr 2026 21:52:29 +0000</pubDate>
+      <pubDate>Mon, 27 Apr 2026 22:45:37 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Claude Design by Anthropic Labs</title>
       <link>https://www.anthropic.com/news/claude-design-anthropic-labs</link>
       <description>Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-design-anthropic-labs</guid>
-      <pubDate>Mon, 27 Apr 2026 21:52:29 +0000</pubDate>
+      <pubDate>Mon, 27 Apr 2026 22:45:37 +0000</pubDate>
     </item>
     <item>
       <title>Claude is a space to think</title>
       <link>https://www.anthropic.com/news/claude-is-a-space-to-think</link>
       <description>We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-is-a-space-to-think</guid>
-      <pubDate>Mon, 27 Apr 2026 21:52:29 +0000</pubDate>
+      <pubDate>Mon, 27 Apr 2026 22:45:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
