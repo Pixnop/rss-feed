@@ -7,76 +7,76 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 May 2026 20:12:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 21:54:58 +0000</lastBuildDate>
     <item>
       <title>Remote agents in Vibe. Powered by Mistral Medium 3.5.</title>
       <link>https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5</link>
       <description>Introducing Mistral Medium 3.5, remote coding agents in Vibe, plus new Work mode in Le Chat for complex tasks.</description>
       <guid isPermaLink="true">https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5</guid>
-      <pubDate>Fri, 15 May 2026 20:12:46 +0000</pubDate>
+      <pubDate>Fri, 15 May 2026 21:54:57 +0000</pubDate>
     </item>
     <item>
       <title>Remote agents in Vibe. Powered by Mistral Medium 3.5.</title>
       <link>https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5</link>
       <description>Introducing Mistral Medium 3.5, remote coding agents in Vibe, plus new Work mode in Le Chat for complex tasks.</description>
       <guid isPermaLink="true">https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5</guid>
-      <pubDate>Fri, 15 May 2026 20:12:47 +0000</pubDate>
+      <pubDate>Fri, 15 May 2026 21:54:57 +0000</pubDate>
     </item>
     <item>
       <title>Workflows for work that runs the business</title>
       <link>https://mistral.ai/news/workflows</link>
       <description>Workflows is now in public preview.</description>
       <guid isPermaLink="true">https://mistral.ai/news/workflows</guid>
-      <pubDate>Fri, 15 May 2026 20:12:47 +0000</pubDate>
+      <pubDate>Fri, 15 May 2026 21:54:57 +0000</pubDate>
     </item>
     <item>
       <title>Connect the dots: Build with built-in and custom MCPs in Studio</title>
       <link>https://mistral.ai/news/connectors</link>
       <description>Connect enterprise data to your AI applications with reusable connectors, direct tool calling, and human-in-the-loop approval controls.</description>
       <guid isPermaLink="true">https://mistral.ai/news/connectors</guid>
-      <pubDate>Fri, 15 May 2026 20:12:47 +0000</pubDate>
+      <pubDate>Fri, 15 May 2026 21:54:57 +0000</pubDate>
     </item>
     <item>
       <title>Speaking of Voxtral</title>
       <link>https://mistral.ai/news/voxtral-tts</link>
       <description>Voxtral TTS: A frontier, open-weights text-to-speech model that’s fast, instantly adaptable, and produces lifelike speech for voice agents.</description>
       <guid isPermaLink="true">https://mistral.ai/news/voxtral-tts</guid>
-      <pubDate>Fri, 15 May 2026 20:12:47 +0000</pubDate>
+      <pubDate>Fri, 15 May 2026 21:54:57 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Forge</title>
       <link>https://mistral.ai/news/forge</link>
       <description>Today, we’re introducing Forge, a system that allows enterprises to build frontier-grade AI models grounded in their proprietary knowledge.</description>
       <guid isPermaLink="true">https://mistral.ai/news/forge</guid>
-      <pubDate>Fri, 15 May 2026 20:12:47 +0000</pubDate>
+      <pubDate>Fri, 15 May 2026 21:54:58 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Mistral Small 4</title>
       <link>https://mistral.ai/news/mistral-small-4</link>
       <description>Introducing Mistral Small 4</description>
       <guid isPermaLink="true">https://mistral.ai/news/mistral-small-4</guid>
-      <pubDate>Fri, 15 May 2026 20:12:47 +0000</pubDate>
+      <pubDate>Fri, 15 May 2026 21:54:58 +0000</pubDate>
     </item>
     <item>
       <title>Mistral AI partners with NVIDIA to accelerate open frontier models</title>
       <link>https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models</link>
       <description>As a founding member of the NVIDIA Nemotron Coalition, Mistral AI is contributing large-scale model development and multimodal capabilities.</description>
       <guid isPermaLink="true">https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models</guid>
-      <pubDate>Fri, 15 May 2026 20:12:47 +0000</pubDate>
+      <pubDate>Fri, 15 May 2026 21:54:58 +0000</pubDate>
     </item>
     <item>
       <title>Leanstral: Open-Source foundation for trustworthy vibe-coding</title>
       <link>https://mistral.ai/news/leanstral</link>
       <description>First open-source code agent for Lean 4.</description>
       <guid isPermaLink="true">https://mistral.ai/news/leanstral</guid>
-      <pubDate>Fri, 15 May 2026 20:12:47 +0000</pubDate>
+      <pubDate>Fri, 15 May 2026 21:54:58 +0000</pubDate>
     </item>
     <item>
       <title>Rails testing on autopilot: Building an agent that writes what developers won't</title>
       <link>https://mistral.ai/news/rails-testing-on-autopilot-building-an-agent-that-writes-what-developers-wont</link>
       <description>Rails testing on autopilot: Building an agent that writes what developers won't</description>
       <guid isPermaLink="true">https://mistral.ai/news/rails-testing-on-autopilot-building-an-agent-that-writes-what-developers-wont</guid>
-      <pubDate>Fri, 15 May 2026 20:12:47 +0000</pubDate>
+      <pubDate>Fri, 15 May 2026 21:54:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
