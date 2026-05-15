@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 May 2026 21:55:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 22:51:07 +0000</lastBuildDate>
     <item>
       <title>Anthropic and NEC collaborate to build Japan’s largest AI engineering workforce</title>
       <link>https://www.anthropic.com/news/anthropic-nec</link>
@@ -83,21 +83,21 @@
       <link>https://www.anthropic.com/news/claude-opus-4-7</link>
       <description>Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency on the work that matters most.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-4-7</guid>
-      <pubDate>Fri, 15 May 2026 21:55:12 +0000</pubDate>
+      <pubDate>Fri, 15 May 2026 22:51:06 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Claude Design by Anthropic Labs</title>
       <link>https://www.anthropic.com/news/claude-design-anthropic-labs</link>
       <description>Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-design-anthropic-labs</guid>
-      <pubDate>Fri, 15 May 2026 21:55:12 +0000</pubDate>
+      <pubDate>Fri, 15 May 2026 22:51:06 +0000</pubDate>
     </item>
     <item>
       <title>Claude is a space to think</title>
       <link>https://www.anthropic.com/news/claude-is-a-space-to-think</link>
       <description>We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-is-a-space-to-think</guid>
-      <pubDate>Fri, 15 May 2026 21:55:12 +0000</pubDate>
+      <pubDate>Fri, 15 May 2026 22:51:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
