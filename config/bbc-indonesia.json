@@ -1,0 +1,11 @@
+{
+  "name": "BBC News Indonesia",
+  "description": "Update NEWS: BBC News Indonesia",
+  "site_url": "https://www.bbc.com/indonesia",
+  "feed_url": "https://www.bbc.com/indonesia",
+  "items_selector": "ul.gs-c-promo-list > li",
+  "title_selector": "h3.gs-c-promo-heading__title",
+  "link_selector": "a.gs-c-promo-heading",
+  "description_selector": "p.gs-c-promo-summary",
+  "date_selector": "time"
+}
