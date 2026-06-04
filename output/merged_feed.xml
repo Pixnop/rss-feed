@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jun 2026 03:32:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 08:15:24 +0000</lastBuildDate>
     <item>
       <title>[Anthropic Engineering Blog] Introducing Contextual Retrieval</title>
       <link>https://www.anthropic.com/engineering/contextual-retrieval</link>
@@ -251,21 +251,21 @@
       <link>https://www.anthropic.com/news/claude-is-a-space-to-think</link>
       <description>We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-is-a-space-to-think</guid>
-      <pubDate>Thu, 04 Jun 2026 03:32:31 +0000</pubDate>
+      <pubDate>Thu, 04 Jun 2026 08:15:23 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Introducing Claude Design by Anthropic Labs</title>
       <link>https://www.anthropic.com/news/claude-design-anthropic-labs</link>
       <description>Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-design-anthropic-labs</guid>
-      <pubDate>Thu, 04 Jun 2026 03:32:31 +0000</pubDate>
+      <pubDate>Thu, 04 Jun 2026 08:15:23 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Introducing Claude Opus 4.8</title>
       <link>https://www.anthropic.com/news/claude-opus-4-8</link>
       <description>An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/claude-opus-4-8</guid>
-      <pubDate>Thu, 04 Jun 2026 03:32:31 +0000</pubDate>
+      <pubDate>Thu, 04 Jun 2026 08:15:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
