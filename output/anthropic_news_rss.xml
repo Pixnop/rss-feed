@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 19:23:45 +0000</lastBuildDate>
-    <item>
-      <title>Investigating three real-world incidents in our cybersecurity evaluations</title>
-      <link>https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</link>
-      <description>Investigating three real-world incidents in our cybersecurity evaluations</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 18 Sep 2026 22:11:41 +0000</lastBuildDate>
     <item>
       <title>Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer</title>
       <link>https://www.anthropic.com/news/tino-cuellar</link>
@@ -79,11 +72,18 @@
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Partnering with Accenture on embedded evaluation</title>
+      <link>https://www.anthropic.com/news/accenture-embedded-evaluation</link>
+      <description>Partnering with Accenture on embedded evaluation</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/accenture-embedded-evaluation</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Improving our alignment and security efforts</title>
       <link>https://www.anthropic.com/news/improving-alignment-security-efforts</link>
       <description>On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/improving-alignment-security-efforts</guid>
-      <pubDate>Fri, 18 Sep 2026 19:23:45 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 22:11:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
