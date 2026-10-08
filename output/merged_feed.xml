@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 16:04:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 21:45:17 +0000</lastBuildDate>
     <item>
       <title>[Anthropic Engineering Blog] Introducing Contextual Retrieval</title>
       <link>https://www.anthropic.com/engineering/contextual-retrieval</link>
@@ -184,20 +184,6 @@
       <pubDate>Thu, 28 May 2026 07:52:17 +0000</pubDate>
     </item>
     <item>
-      <title>[Anthropic News] Previewing the Model Hardware Standard</title>
-      <link>https://www.anthropic.com/news/model-hardware-standard-research-preview</link>
-      <description>Previewing the Model Hardware Standard</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/model-hardware-standard-research-preview</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Improving our alignment and security efforts</title>
-      <link>https://www.anthropic.com/news/improving-alignment-security-efforts</link>
-      <description>Improving our alignment and security efforts</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/improving-alignment-security-efforts</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Anthropic News] Developing Enterprise Frontier Safeguards with our customers</title>
       <link>https://www.anthropic.com/news/enterprise-frontier-safeguards</link>
       <description>Developing Enterprise Frontier Safeguards with our customers</description>
@@ -247,6 +233,13 @@
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>[Anthropic News] 2026 Usage Policy update</title>
+      <link>https://www.anthropic.com/news/2026-usage-policy-update</link>
+      <description>2026 Usage Policy update</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/2026-usage-policy-update</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[Anthropic News] Building on our commitment to American scientific discovery</title>
       <link>https://www.anthropic.com/news/genesis-mission-commitment</link>
       <description>Building on our commitment to American scientific discovery</description>
@@ -254,11 +247,18 @@
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>[Anthropic News] Introducing the Anthropic Cyber Mission</title>
+      <link>https://www.anthropic.com/news/anthropic-cyber-mission</link>
+      <description>Introducing the Anthropic Cyber Mission</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-cyber-mission</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[Anthropic News] Expanding the Cyber Verification Program</title>
       <link>https://www.anthropic.com/news/cyber-verification-program</link>
       <description>We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/cyber-verification-program</guid>
-      <pubDate>Thu, 08 Oct 2026 16:04:06 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 21:45:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
