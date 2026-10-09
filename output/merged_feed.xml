@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Oct 2026 15:45:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 20:29:28 +0000</lastBuildDate>
     <item>
       <title>[Anthropic Engineering Blog] Introducing Contextual Retrieval</title>
       <link>https://www.anthropic.com/engineering/contextual-retrieval</link>
@@ -258,7 +258,7 @@
       <link>https://www.anthropic.com/news/cyber-verification-program</link>
       <description>We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/cyber-verification-program</guid>
-      <pubDate>Fri, 09 Oct 2026 15:45:49 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 20:29:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
