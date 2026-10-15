@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 06:52:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 12:23:51 +0000</lastBuildDate>
     <item>
       <title>Partnering with Accenture on embedded evaluation</title>
       <link>https://www.anthropic.com/news/accenture-embedded-evaluation</link>
@@ -83,7 +83,7 @@
       <link>https://www.anthropic.com/news/cyber-verification-program</link>
       <description>We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/cyber-verification-program</guid>
-      <pubDate>Thu, 15 Oct 2026 06:52:05 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 12:23:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
