@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 12:23:51 +0000</lastBuildDate>
-    <item>
-      <title>Partnering with Accenture on embedded evaluation</title>
-      <link>https://www.anthropic.com/news/accenture-embedded-evaluation</link>
-      <description>Partnering with Accenture on embedded evaluation</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/accenture-embedded-evaluation</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Oct 2026 17:33:27 +0000</lastBuildDate>
     <item>
       <title>Claude discovers a novel enzyme system with CRISPR-like repeats</title>
       <link>https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</link>
@@ -79,11 +72,18 @@
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>An update on independent evaluators</title>
+      <link>https://www.anthropic.com/news/an-update-on-independent-evaluators</link>
+      <description>An update on independent evaluators</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/an-update-on-independent-evaluators</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Expanding the Cyber Verification Program</title>
       <link>https://www.anthropic.com/news/cyber-verification-program</link>
       <description>We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/cyber-verification-program</guid>
-      <pubDate>Thu, 15 Oct 2026 12:23:50 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 17:33:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
