@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 17:43:59 +0000</lastBuildDate>
-    <item>
-      <title>Claude discovers a novel enzyme system with CRISPR-like repeats</title>
-      <link>https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</link>
-      <description>Claude discovers a novel enzyme system with CRISPR-like repeats</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 18 Oct 2026 19:58:47 +0000</lastBuildDate>
     <item>
       <title>Barclays scales Claude to upgrade operations and improve client experience</title>
       <link>https://www.anthropic.com/news/barclays-scales-claude</link>
@@ -79,11 +72,18 @@
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Investing in the public benefit</title>
+      <link>https://www.anthropic.com/news/public-benefit-fund</link>
+      <description>Investing in the public benefit</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/public-benefit-fund</guid>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Expanding the Cyber Verification Program</title>
       <link>https://www.anthropic.com/news/cyber-verification-program</link>
       <description>We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/cyber-verification-program</guid>
-      <pubDate>Sun, 18 Oct 2026 17:43:58 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 19:58:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
