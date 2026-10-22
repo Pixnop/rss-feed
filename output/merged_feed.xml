@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 05:40:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:00:28 +0000</lastBuildDate>
     <item>
       <title>[Anthropic Engineering Blog] Introducing Contextual Retrieval</title>
       <link>https://www.anthropic.com/engineering/contextual-retrieval</link>
@@ -184,284 +184,284 @@
       <pubDate>Thu, 28 May 2026 07:52:17 +0000</pubDate>
     </item>
     <item>
+      <title>[Anthropic News] An update on independent evaluators</title>
+      <link>https://www.anthropic.com/news/an-update-on-independent-evaluators</link>
+      <description>An update on independent evaluators</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/an-update-on-independent-evaluators</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Investing in the public benefit</title>
+      <link>https://www.anthropic.com/news/public-benefit-fund</link>
+      <description>Investing in the public benefit</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/public-benefit-fund</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Investing in the public benefit</title>
+      <link>https://www.anthropic.com/news/public-benefit-fund</link>
+      <description>Investing in the public benefit</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/public-benefit-fund</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust</title>
+      <link>https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust</link>
+      <description>Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust</title>
+      <link>https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust</link>
+      <description>Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:26 +0000</pubDate>
+    </item>
+    <item>
       <title>[Anthropic News] Expanding the Cyber Verification Program</title>
       <link>https://www.anthropic.com/news/cyber-verification-program</link>
       <description>We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/cyber-verification-program</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:46 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 11:00:26 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Investing in the public benefit</title>
       <link>https://www.anthropic.com/news/public-benefit-fund</link>
       <description>We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/public-benefit-fund</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Introducing the Anthropic Cyber Mission</title>
-      <link>https://www.anthropic.com/news/anthropic-cyber-mission</link>
-      <description>Introducing the Anthropic Cyber Mission</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-cyber-mission</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Strengthening our defenses against distillation attacks</title>
-      <link>https://www.anthropic.com/news/distillation-defenses</link>
-      <description>Strengthening our defenses against distillation attacks</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/distillation-defenses</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Strengthening our defenses against distillation attacks</title>
-      <link>https://www.anthropic.com/news/distillation-defenses</link>
-      <description>Strengthening our defenses against distillation attacks</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/distillation-defenses</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Anthropic opens Singapore office and signs MOU with the Government of Singapore</title>
-      <link>https://www.anthropic.com/news/singapore-office-opening</link>
-      <description>Anthropic opens Singapore office and signs MOU with the Government of Singapore</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/singapore-office-opening</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Anthropic opens Singapore office and signs MOU with the Government of Singapore</title>
-      <link>https://www.anthropic.com/news/singapore-office-opening</link>
-      <description>Anthropic opens Singapore office and signs MOU with the Government of Singapore</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/singapore-office-opening</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Preparing for the 2026 US midterms</title>
-      <link>https://www.anthropic.com/news/2026-us-midterms</link>
-      <description>Preparing for the 2026 US midterms</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/2026-us-midterms</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Preparing for the 2026 US midterms</title>
-      <link>https://www.anthropic.com/news/2026-us-midterms</link>
-      <description>Preparing for the 2026 US midterms</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/2026-us-midterms</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] An update on independent evaluators</title>
-      <link>https://www.anthropic.com/news/an-update-on-independent-evaluators</link>
-      <description>An update on independent evaluators</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/an-update-on-independent-evaluators</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] An update on independent evaluators</title>
-      <link>https://www.anthropic.com/news/an-update-on-independent-evaluators</link>
-      <description>An update on independent evaluators</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/an-update-on-independent-evaluators</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Investing in the public benefit</title>
-      <link>https://www.anthropic.com/news/public-benefit-fund</link>
-      <description>Investing in the public benefit</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/public-benefit-fund</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Investing in the public benefit</title>
-      <link>https://www.anthropic.com/news/public-benefit-fund</link>
-      <description>Investing in the public benefit</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/public-benefit-fund</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust</title>
-      <link>https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust</link>
-      <description>Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust</title>
-      <link>https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust</link>
-      <description>Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Introducing the Life Sciences Verification Program</title>
-      <link>https://www.anthropic.com/news/life-sciences-verification-program</link>
-      <description>Introducing the Life Sciences Verification Program</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/life-sciences-verification-program</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Partnering with Accenture on embedded evaluation</title>
-      <link>https://www.anthropic.com/news/accenture-embedded-evaluation</link>
-      <description>Partnering with Accenture on embedded evaluation</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/accenture-embedded-evaluation</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Partnering with Accenture on embedded evaluation</title>
-      <link>https://www.anthropic.com/news/accenture-embedded-evaluation</link>
-      <description>Partnering with Accenture on embedded evaluation</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/accenture-embedded-evaluation</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Barclays scales Claude to upgrade operations and improve client experience</title>
-      <link>https://www.anthropic.com/news/barclays-scales-claude</link>
-      <description>Barclays scales Claude to upgrade operations and improve client experience</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/barclays-scales-claude</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Barclays scales Claude to upgrade operations and improve client experience</title>
-      <link>https://www.anthropic.com/news/barclays-scales-claude</link>
-      <description>Barclays scales Claude to upgrade operations and improve client experience</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/barclays-scales-claude</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap</title>
-      <link>https://www.anthropic.com/news/claude-frontier-academy</link>
-      <description>Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-frontier-academy</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap</title>
-      <link>https://www.anthropic.com/news/claude-frontier-academy</link>
-      <description>Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/claude-frontier-academy</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Expanding the Cyber Verification Program</title>
-      <link>https://www.anthropic.com/news/cyber-verification-program</link>
-      <description>Expanding the Cyber Verification Program</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/cyber-verification-program</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Expanding the Cyber Verification Program</title>
-      <link>https://www.anthropic.com/news/cyber-verification-program</link>
-      <description>Expanding the Cyber Verification Program</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/cyber-verification-program</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Building on our commitment to American scientific discovery</title>
-      <link>https://www.anthropic.com/news/genesis-mission-commitment</link>
-      <description>Building on our commitment to American scientific discovery</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/genesis-mission-commitment</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Building on our commitment to American scientific discovery</title>
-      <link>https://www.anthropic.com/news/genesis-mission-commitment</link>
-      <description>Building on our commitment to American scientific discovery</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/genesis-mission-commitment</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] 2026 Usage Policy update</title>
-      <link>https://www.anthropic.com/news/2026-usage-policy-update</link>
-      <description>2026 Usage Policy update</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/2026-usage-policy-update</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] 2026 Usage Policy update</title>
-      <link>https://www.anthropic.com/news/2026-usage-policy-update</link>
-      <description>2026 Usage Policy update</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/2026-usage-policy-update</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Introducing the Anthropic Cyber Mission</title>
-      <link>https://www.anthropic.com/news/anthropic-cyber-mission</link>
-      <description>Introducing the Anthropic Cyber Mission</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-cyber-mission</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Funding better evaluations of AI’s impact on wellbeing</title>
-      <link>https://www.anthropic.com/news/wellbeing-research-grants</link>
-      <description>Funding better evaluations of AI’s impact on wellbeing</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/wellbeing-research-grants</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Funding better evaluations of AI’s impact on wellbeing</title>
-      <link>https://www.anthropic.com/news/wellbeing-research-grants</link>
-      <description>Funding better evaluations of AI’s impact on wellbeing</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/wellbeing-research-grants</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Expanding our support for scientists</title>
-      <link>https://www.anthropic.com/news/expanding-support-for-scientists</link>
-      <description>Expanding our support for scientists</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/expanding-support-for-scientists</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Expanding our support for scientists</title>
-      <link>https://www.anthropic.com/news/expanding-support-for-scientists</link>
-      <description>Expanding our support for scientists</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/expanding-support-for-scientists</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Previewing the Model Hardware Standard</title>
-      <link>https://www.anthropic.com/news/model-hardware-standard-research-preview</link>
-      <description>Previewing the Model Hardware Standard</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/model-hardware-standard-research-preview</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Previewing the Model Hardware Standard</title>
-      <link>https://www.anthropic.com/news/model-hardware-standard-research-preview</link>
-      <description>Previewing the Model Hardware Standard</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/model-hardware-standard-research-preview</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Improving our alignment and security efforts</title>
-      <link>https://www.anthropic.com/news/improving-alignment-security-efforts</link>
-      <description>Improving our alignment and security efforts</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/improving-alignment-security-efforts</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Improving our alignment and security efforts</title>
-      <link>https://www.anthropic.com/news/improving-alignment-security-efforts</link>
-      <description>Improving our alignment and security efforts</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/improving-alignment-security-efforts</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:49 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 11:00:26 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Developing Enterprise Frontier Safeguards with our customers</title>
       <link>https://www.anthropic.com/news/enterprise-frontier-safeguards</link>
       <description>Developing Enterprise Frontier Safeguards with our customers</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/enterprise-frontier-safeguards</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Anthropic News] Developing Enterprise Frontier Safeguards with our customers</title>
-      <link>https://www.anthropic.com/news/enterprise-frontier-safeguards</link>
-      <description>Developing Enterprise Frontier Safeguards with our customers</description>
-      <guid isPermaLink="true">https://www.anthropic.com/news/enterprise-frontier-safeguards</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:49 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 11:00:27 +0000</pubDate>
     </item>
     <item>
       <title>[Anthropic News] Introducing the Life Sciences Verification Program</title>
       <link>https://www.anthropic.com/news/life-sciences-verification-program</link>
       <description>Introducing the Life Sciences Verification Program</description>
       <guid isPermaLink="true">https://www.anthropic.com/news/life-sciences-verification-program</guid>
-      <pubDate>Thu, 22 Oct 2026 05:40:49 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 11:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Introducing the Life Sciences Verification Program</title>
+      <link>https://www.anthropic.com/news/life-sciences-verification-program</link>
+      <description>Introducing the Life Sciences Verification Program</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/life-sciences-verification-program</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Partnering with Accenture on embedded evaluation</title>
+      <link>https://www.anthropic.com/news/accenture-embedded-evaluation</link>
+      <description>Partnering with Accenture on embedded evaluation</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/accenture-embedded-evaluation</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Partnering with Accenture on embedded evaluation</title>
+      <link>https://www.anthropic.com/news/accenture-embedded-evaluation</link>
+      <description>Partnering with Accenture on embedded evaluation</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/accenture-embedded-evaluation</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Barclays scales Claude to upgrade operations and improve client experience</title>
+      <link>https://www.anthropic.com/news/barclays-scales-claude</link>
+      <description>Barclays scales Claude to upgrade operations and improve client experience</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/barclays-scales-claude</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Barclays scales Claude to upgrade operations and improve client experience</title>
+      <link>https://www.anthropic.com/news/barclays-scales-claude</link>
+      <description>Barclays scales Claude to upgrade operations and improve client experience</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/barclays-scales-claude</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap</title>
+      <link>https://www.anthropic.com/news/claude-frontier-academy</link>
+      <description>Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-frontier-academy</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap</title>
+      <link>https://www.anthropic.com/news/claude-frontier-academy</link>
+      <description>Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/claude-frontier-academy</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Expanding the Cyber Verification Program</title>
+      <link>https://www.anthropic.com/news/cyber-verification-program</link>
+      <description>Expanding the Cyber Verification Program</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/cyber-verification-program</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Expanding the Cyber Verification Program</title>
+      <link>https://www.anthropic.com/news/cyber-verification-program</link>
+      <description>Expanding the Cyber Verification Program</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/cyber-verification-program</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Building on our commitment to American scientific discovery</title>
+      <link>https://www.anthropic.com/news/genesis-mission-commitment</link>
+      <description>Building on our commitment to American scientific discovery</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/genesis-mission-commitment</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Building on our commitment to American scientific discovery</title>
+      <link>https://www.anthropic.com/news/genesis-mission-commitment</link>
+      <description>Building on our commitment to American scientific discovery</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/genesis-mission-commitment</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] 2026 Usage Policy update</title>
+      <link>https://www.anthropic.com/news/2026-usage-policy-update</link>
+      <description>2026 Usage Policy update</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/2026-usage-policy-update</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] 2026 Usage Policy update</title>
+      <link>https://www.anthropic.com/news/2026-usage-policy-update</link>
+      <description>2026 Usage Policy update</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/2026-usage-policy-update</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Introducing the Anthropic Cyber Mission</title>
+      <link>https://www.anthropic.com/news/anthropic-cyber-mission</link>
+      <description>Introducing the Anthropic Cyber Mission</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-cyber-mission</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Introducing the Anthropic Cyber Mission</title>
+      <link>https://www.anthropic.com/news/anthropic-cyber-mission</link>
+      <description>Introducing the Anthropic Cyber Mission</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-cyber-mission</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Strengthening our defenses against distillation attacks</title>
+      <link>https://www.anthropic.com/news/distillation-defenses</link>
+      <description>Strengthening our defenses against distillation attacks</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/distillation-defenses</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Strengthening our defenses against distillation attacks</title>
+      <link>https://www.anthropic.com/news/distillation-defenses</link>
+      <description>Strengthening our defenses against distillation attacks</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/distillation-defenses</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Anthropic opens Singapore office and signs MOU with the Government of Singapore</title>
+      <link>https://www.anthropic.com/news/singapore-office-opening</link>
+      <description>Anthropic opens Singapore office and signs MOU with the Government of Singapore</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/singapore-office-opening</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Anthropic opens Singapore office and signs MOU with the Government of Singapore</title>
+      <link>https://www.anthropic.com/news/singapore-office-opening</link>
+      <description>Anthropic opens Singapore office and signs MOU with the Government of Singapore</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/singapore-office-opening</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Preparing for the 2026 US midterms</title>
+      <link>https://www.anthropic.com/news/2026-us-midterms</link>
+      <description>Preparing for the 2026 US midterms</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/2026-us-midterms</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Preparing for the 2026 US midterms</title>
+      <link>https://www.anthropic.com/news/2026-us-midterms</link>
+      <description>Preparing for the 2026 US midterms</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/2026-us-midterms</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] An update on independent evaluators</title>
+      <link>https://www.anthropic.com/news/an-update-on-independent-evaluators</link>
+      <description>An update on independent evaluators</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/an-update-on-independent-evaluators</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Funding better evaluations of AI’s impact on wellbeing</title>
+      <link>https://www.anthropic.com/news/wellbeing-research-grants</link>
+      <description>Funding better evaluations of AI’s impact on wellbeing</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/wellbeing-research-grants</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Funding better evaluations of AI’s impact on wellbeing</title>
+      <link>https://www.anthropic.com/news/wellbeing-research-grants</link>
+      <description>Funding better evaluations of AI’s impact on wellbeing</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/wellbeing-research-grants</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Expanding our support for scientists</title>
+      <link>https://www.anthropic.com/news/expanding-support-for-scientists</link>
+      <description>Expanding our support for scientists</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/expanding-support-for-scientists</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Expanding our support for scientists</title>
+      <link>https://www.anthropic.com/news/expanding-support-for-scientists</link>
+      <description>Expanding our support for scientists</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/expanding-support-for-scientists</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Previewing the Model Hardware Standard</title>
+      <link>https://www.anthropic.com/news/model-hardware-standard-research-preview</link>
+      <description>Previewing the Model Hardware Standard</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/model-hardware-standard-research-preview</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Previewing the Model Hardware Standard</title>
+      <link>https://www.anthropic.com/news/model-hardware-standard-research-preview</link>
+      <description>Previewing the Model Hardware Standard</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/model-hardware-standard-research-preview</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Improving our alignment and security efforts</title>
+      <link>https://www.anthropic.com/news/improving-alignment-security-efforts</link>
+      <description>Improving our alignment and security efforts</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/improving-alignment-security-efforts</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Improving our alignment and security efforts</title>
+      <link>https://www.anthropic.com/news/improving-alignment-security-efforts</link>
+      <description>Improving our alignment and security efforts</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/improving-alignment-security-efforts</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Anthropic News] Developing Enterprise Frontier Safeguards with our customers</title>
+      <link>https://www.anthropic.com/news/enterprise-frontier-safeguards</link>
+      <description>Developing Enterprise Frontier Safeguards with our customers</description>
+      <guid isPermaLink="true">https://www.anthropic.com/news/enterprise-frontier-safeguards</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
